@@ -1,0 +1,189 @@
+{
+    "basename":         "The DanLib Base Library",
+    "modules":          "Modules",
+    "settings":         "Settings",
+    "Profile":          "Profile",
+    "Help":             "Help",
+    "infabavadd":       "Information about available addons",
+
+    "basic":            "Basic",
+    "AdminPermis":      "Admin Permissions",
+
+    "#Open":            "Open",
+    "#Close":           "Close",
+
+    "discordlink":      "Discord",
+    "githublink":       "GitHub",
+    "websitelink":      "Website",
+    "gotosteam":        "Steam",
+    "vklink":           "VK",
+    "chatcommand":      "Chat Command",
+    "textfont":         "Text font",
+    "infwin":           "Information window",
+    
+    "ModulesInfo":      "Modules information",
+    "descriptimod":     "Information about available modules",
+    "SubModules":       "Sub Modules ({module})",
+    "dVersion":         "Version: {version}",
+    "ModuleVersion":    "Module version: {version}",
+    "NoData":           "No data",
+
+    "infabautavailble": "Information about the author and available updates",
+    "author":           "Author: {author}",
+    "abouttheautor":    "Information",
+    "chekforupdates":   "Chel for update",
+    "WNewUpdata":       "What's new?",
+    "News":             "News",
+    "Priority":         "Priority: %s \nPriority means how important this or that news is!",
+    "New#News":         "New",
+
+    "search":           "Search",
+    "enabled":          "Enabled",
+    "disabled":         "Disabled",
+    "selected":         "Selected",
+    "unselected":       "Choose",
+
+    "Yes":              "Yes",
+    "No":               "No",
+    "Adopt":            "Adopt",
+
+    "Delete":           "Delete",
+    "SelectAddSound":   "Select/Add Sound",
+    "ChooseColor":      "Choose a color",
+
+    "Successfully":     "Successfully!",
+    "Attention":        "Attention!",
+    "Mistake":          "Mistake!",
+    "#Mistake":         "MISTAKE",
+
+    "#She":              "She",
+    "#You":              "You",
+    "#He":               "He",
+
+    "Spoiler":          "Spoiler",
+
+    "add":              "Add",
+    "confirm":          "Confirm",
+    "cancel":           "Cancel",
+    "save":             "Save",
+    "Saved":            "Saved",
+    "Close":            "Close",
+    "Next":             "Next",
+    "Minimize/ExtendWi": "Minimize/expand the window",
+    "Base#CollapseWind": "Collapse Window",
+    "Press#BackMenu":   "Press ESC to go back to the menu",
+
+    "unsavedChanges":   "Unsaved changes",
+    "PlsRememberSaveCh": "Please remember to save your changes.",
+
+    "description":      "Description",
+    "version":          "Version",
+
+    "#configSave":      "CONFIG SAVE",
+    "configSaved":      "All changes have been saved in config!",
+
+    "SysDebugMode":     "The server is in system debugging mode. Something may be unstable!",
+
+    "ResettingChanges": "Resetting changes",
+
+    "NewAddTitle":      "To create one, click on the ADD button.",
+    "ClickLearnMore":   "Click to learn more",
+
+    "player_join":      "Player **{name}** [*{steam_id}*] ([Profile](https://steamcommunity.com/id/{steam_id}/)) is connecting to the server!",
+    "player_disconnect": "Player **{name}** [*{steam_id}*] ([Profile](https://steamcommunity.com/id/{steam_id}/)) disconnected ({reason})",
+
+    "save_config":      "**{name}** [*{steam_id}*] ([Profile](https://steamcommunity.com/id/{steam_id}/)) изменил конфигурацию.",
+
+    "seconds":          "seconds",
+    "second":           "second",
+    "minutes":          "minutes",
+    "minute":           "minute",
+    "hours":            "hours",
+    "hour":             "hour",
+    "days":             "days",
+    "day":              "days",
+
+    "#quickSearch":     "For a quick search use the input line",
+
+    "Preview#":         "Preview",
+    "Undefined":        "Undefined",
+
+    "Warning":          "Warning",
+    "#Warning":         "WARNING",
+    
+    "general":          "General",
+    "followthelink":    "Follow the link",
+    "comingSoon" :      "Soon!",
+
+    "interface":        "Interface",
+    "nlstrings":        "Missing '{number}' language strings",
+
+    "presetBackgrounds": "Ready-made options",
+
+    "#copy":            "Copy",
+    "#commandCopy":     "Command {title} copied!",
+
+    "colwinelem":       "Color of windows and elements",
+    "colorbackg":       "Background color",
+    "panelcolor":       "Panel Color",
+    "coldecorelem":     "Color for decorative elements (materials, closure button, etc)",
+    "coldecorelems":    "Color for decorative elements (stripes, dividers, etc)",
+    "colorbutton":      "Button color",
+
+    "languages":        "Languages",
+    "xAdminGroups":     "{number} Admin Groups",
+
+    "AdminOnline":      "Admin(s) online ({number})",
+
+    "admin":            "Admin",
+    "players":          "Players",
+
+    "create":           "Create",
+    "createNew":        "Create New",
+    "createNewLang":    "Create a new language.",
+
+    "#notTool":         "You do not have the rights to use this tool!",
+
+    "SelectlangStredit": "Select one of the language strings to edit",
+
+    "editlangStrings":  "Edit language strings",
+    "editUserGroups":   "Edit User Groups",
+    "editColor":        "Edit Color",
+    "editName":         "Edit Name",
+
+    "AccessDenied":     "ACCESS DENIED",
+    "AccessVer":        "Sorry, but you don't have proper access to execute this command!",
+    "WrongArg":         "Wrong argument!",
+
+    "userGroupEditor":  "User Group Editor",
+    "newUserGroup":     "What should new user group be?",
+
+    "ViewReceive":      "Look at the entity to get the model!",
+    "model:":           "Model: ",
+    "modelRetrieved":   " is retrieved and copied to the clipboard.", 
+
+    "UpdateNeeded":     "An update is needed!",
+    "VersionsCache":    "Checking for updates...",
+    "ModulesNoInf":     "No information available!",
+    "LatestVersion":    "Latest version!",
+    "NewVersion":       "New version '{version}'",
+
+    "UpdateVersion":    "A new version of the addon is available for '{module}'! Please upgrade to the new version! Your version is '{version}'.",
+    "NoUpdateVersion":  "At the moment, no update is required for '{module}'. You have the latest version of '{version}' installed",
+
+    "Toggle":           "Toggle",
+
+    "DebuggingWindowSc": "It's a pop-up debugging window on the screen!",
+    "Edit":             "Edit",
+
+    "NoInformationAvai": "No information available",
+
+    "infwindowdanlib":  "Information Window",
+
+    "ThankYouMuch":     "Thank you so much!",
+    "showwhencon":      "Show when connecting?",
+    "langmissing":      "The language is missing!",
+    "Loadinglanguages": "Loading module languages: ",
+
+    "copyright":        "Copyright (c) {year} denchik",
+}
