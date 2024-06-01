@@ -1,1 +1,1 @@
-# DDI-Other-Informations
+# (DDI) Other informations
