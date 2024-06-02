@@ -1,0 +1,6412 @@
+{
+    "icon_collection": [
+        {
+            "name_icon": "ad",
+            "code_color": "f641"
+        },
+        {
+            "name_icon": "address-book",
+            "code_color": "f2b9"
+        },
+        {
+            "name_icon": "address-card",
+            "code_color": "f2bb"
+        },
+        {
+            "name_icon": "adjust",
+            "code_color": "f042"
+        },
+        {
+            "name_icon": "air-freshener",
+            "code_color": "f5d0"
+        },
+        {
+            "name_icon": "align-center",
+            "code_color": "f037"
+        },
+        {
+            "name_icon": "align-justify",
+            "code_color": "f039"
+        },
+        {
+            "name_icon": "align-left",
+            "code_color": "f036"
+        },
+        {
+            "name_icon": "align-right",
+            "code_color": "f038"
+        },
+        {
+            "name_icon": "allergies",
+            "code_color": "f461"
+        },
+        {
+            "name_icon": "ambulance",
+            "code_color": "f0f9"
+        },
+        {
+            "name_icon": "american-sign-language-interpreting",
+            "code_color": "f2a3"
+        },
+        {
+            "name_icon": "anchor",
+            "code_color": "f13d"
+        },
+        {
+            "name_icon": "angle-double-down",
+            "code_color": "f103"
+        },
+        {
+            "name_icon": "angle-double-left",
+            "code_color": "f100"
+        },
+        {
+            "name_icon": "angle-double-right",
+            "code_color": "f101"
+        },
+        {
+            "name_icon": "angle-double-up",
+            "code_color": "f102"
+        },
+        {
+            "name_icon": "angle-down",
+            "code_color": "f107"
+        },
+        {
+            "name_icon": "angle-left",
+            "code_color": "f104"
+        },
+        {
+            "name_icon": "angle-right",
+            "code_color": "f105"
+        },
+        {
+            "name_icon": "angle-up",
+            "code_color": "f106"
+        },
+        {
+            "name_icon": "angry",
+            "code_color": "f556"
+        },
+        {
+            "name_icon": "ankh",
+            "code_color": "f644"
+        },
+        {
+            "name_icon": "apple-alt",
+            "code_color": "f5d1"
+        },
+        {
+            "name_icon": "archive",
+            "code_color": "f187"
+        },
+        {
+            "name_icon": "archway",
+            "code_color": "f557"
+        },
+        {
+            "name_icon": "arrow-alt-circle-down",
+            "code_color": "f358"
+        },
+        {
+            "name_icon": "arrow-alt-circle-left",
+            "code_color": "f359"
+        },
+        {
+            "name_icon": "arrow-alt-circle-right",
+            "code_color": "f35a"
+        },
+        {
+            "name_icon": "arrow-alt-circle-up",
+            "code_color": "f35b"
+        },
+        {
+            "name_icon": "arrow-circle-down",
+            "code_color": "f0ab"
+        },
+        {
+            "name_icon": "arrow-circle-left",
+            "code_color": "f0a8"
+        },
+        {
+            "name_icon": "arrow-circle-right",
+            "code_color": "f0a9"
+        },
+        {
+            "name_icon": "arrow-circle-up",
+            "code_color": "f0aa"
+        },
+        {
+            "name_icon": "arrow-down",
+            "code_color": "f063"
+        },
+        {
+            "name_icon": "arrow-left",
+            "code_color": "f060"
+        },
+        {
+            "name_icon": "arrow-right",
+            "code_color": "f061"
+        },
+        {
+            "name_icon": "arrow-up",
+            "code_color": "f062"
+        },
+        {
+            "name_icon": "arrows-alt",
+            "code_color": "f0b2"
+        },
+        {
+            "name_icon": "arrows-alt-h",
+            "code_color": "f337"
+        },
+        {
+            "name_icon": "arrows-alt-v",
+            "code_color": "f338"
+        },
+        {
+            "name_icon": "assistive-listening-systems",
+            "code_color": "f2a2"
+        },
+        {
+            "name_icon": "asterisk",
+            "code_color": "f069"
+        },
+        {
+            "name_icon": "at",
+            "code_color": "f1fa"
+        },
+        {
+            "name_icon": "atlas",
+            "code_color": "f558"
+        },
+        {
+            "name_icon": "atom",
+            "code_color": "f5d2"
+        },
+        {
+            "name_icon": "audio-description",
+            "code_color": "f29e"
+        },
+        {
+            "name_icon": "award",
+            "code_color": "f559"
+        },
+        {
+            "name_icon": "baby",
+            "code_color": "f77c"
+        },
+        {
+            "name_icon": "baby-carriage",
+            "code_color": "f77d"
+        },
+        {
+            "name_icon": "backspace",
+            "code_color": "f55a"
+        },
+        {
+            "name_icon": "backward",
+            "code_color": "f04a"
+        },
+        {
+            "name_icon": "bacon",
+            "code_color": "f7e5"
+        },
+        {
+            "name_icon": "bacteria",
+            "code_color": "e059"
+        },
+        {
+            "name_icon": "bacterium",
+            "code_color": "e05a"
+        },
+        {
+            "name_icon": "bahai",
+            "code_color": "f666"
+        },
+        {
+            "name_icon": "balance-scale",
+            "code_color": "f24e"
+        },
+        {
+            "name_icon": "balance-scale-left",
+            "code_color": "f515"
+        },
+        {
+            "name_icon": "balance-scale-right",
+            "code_color": "f516"
+        },
+        {
+            "name_icon": "ban",
+            "code_color": "f05e"
+        },
+        {
+            "name_icon": "band-aid",
+            "code_color": "f462"
+        },
+        {
+            "name_icon": "barcode",
+            "code_color": "f02a"
+        },
+        {
+            "name_icon": "bars",
+            "code_color": "f0c9"
+        },
+        {
+            "name_icon": "baseball-ball",
+            "code_color": "f433"
+        },
+        {
+            "name_icon": "basketball-ball",
+            "code_color": "f434"
+        },
+        {
+            "name_icon": "bath",
+            "code_color": "f2cd"
+        },
+        {
+            "name_icon": "battery-empty",
+            "code_color": "f244"
+        },
+        {
+            "name_icon": "battery-full",
+            "code_color": "f240"
+        },
+        {
+            "name_icon": "battery-half",
+            "code_color": "f242"
+        },
+        {
+            "name_icon": "battery-quarter",
+            "code_color": "f243"
+        },
+        {
+            "name_icon": "battery-three-quarters",
+            "code_color": "f241"
+        },
+        {
+            "name_icon": "bed",
+            "code_color": "f236"
+        },
+        {
+            "name_icon": "beer",
+            "code_color": "f0fc"
+        },
+        {
+            "name_icon": "bell",
+            "code_color": "f0f3"
+        },
+        {
+            "name_icon": "bell-slash",
+            "code_color": "f1f6"
+        },
+        {
+            "name_icon": "bezier-curve",
+            "code_color": "f55b"
+        },
+        {
+            "name_icon": "bible",
+            "code_color": "f647"
+        },
+        {
+            "name_icon": "bicycle",
+            "code_color": "f206"
+        },
+        {
+            "name_icon": "biking",
+            "code_color": "f84a"
+        },
+        {
+            "name_icon": "binoculars",
+            "code_color": "f1e5"
+        },
+        {
+            "name_icon": "biohazard",
+            "code_color": "f780"
+        },
+        {
+            "name_icon": "birthday-cake",
+            "code_color": "f1fd"
+        },
+        {
+            "name_icon": "blender",
+            "code_color": "f517"
+        },
+        {
+            "name_icon": "blender-phone",
+            "code_color": "f6b6"
+        },
+        {
+            "name_icon": "blind",
+            "code_color": "f29d"
+        },
+        {
+            "name_icon": "blog",
+            "code_color": "f781"
+        },
+        {
+            "name_icon": "bold",
+            "code_color": "f032"
+        },
+        {
+            "name_icon": "bolt",
+            "code_color": "f0e7"
+        },
+        {
+            "name_icon": "bomb",
+            "code_color": "f1e2"
+        },
+        {
+            "name_icon": "bone",
+            "code_color": "f5d7"
+        },
+        {
+            "name_icon": "bong",
+            "code_color": "f55c"
+        },
+        {
+            "name_icon": "book",
+            "code_color": "f02d"
+        },
+        {
+            "name_icon": "book-dead",
+            "code_color": "f6b7"
+        },
+        {
+            "name_icon": "book-medical",
+            "code_color": "f7e6"
+        },
+        {
+            "name_icon": "book-open",
+            "code_color": "f518"
+        },
+        {
+            "name_icon": "book-reader",
+            "code_color": "f5da"
+        },
+        {
+            "name_icon": "bookmark",
+            "code_color": "f02e"
+        },
+        {
+            "name_icon": "border-all",
+            "code_color": "f84c"
+        },
+        {
+            "name_icon": "border-none",
+            "code_color": "f850"
+        },
+        {
+            "name_icon": "border-style",
+            "code_color": "f853"
+        },
+        {
+            "name_icon": "bowling-ball",
+            "code_color": "f436"
+        },
+        {
+            "name_icon": "box",
+            "code_color": "f466"
+        },
+        {
+            "name_icon": "box-open",
+            "code_color": "f49e"
+        },
+        {
+            "name_icon": "box-tissue",
+            "code_color": "e05b"
+        },
+        {
+            "name_icon": "boxes",
+            "code_color": "f468"
+        },
+        {
+            "name_icon": "braille",
+            "code_color": "f2a1"
+        },
+        {
+            "name_icon": "brain",
+            "code_color": "f5dc"
+        },
+        {
+            "name_icon": "bread-slice",
+            "code_color": "f7ec"
+        },
+        {
+            "name_icon": "briefcase",
+            "code_color": "f0b1"
+        },
+        {
+            "name_icon": "briefcase-medical",
+            "code_color": "f469"
+        },
+        {
+            "name_icon": "broadcast-tower",
+            "code_color": "f519"
+        },
+        {
+            "name_icon": "broom",
+            "code_color": "f51a"
+        },
+        {
+            "name_icon": "brush",
+            "code_color": "f55d"
+        },
+        {
+            "name_icon": "bug",
+            "code_color": "f188"
+        },
+        {
+            "name_icon": "building",
+            "code_color": "f1ad"
+        },
+        {
+            "name_icon": "bullhorn",
+            "code_color": "f0a1"
+        },
+        {
+            "name_icon": "bullseye",
+            "code_color": "f140"
+        },
+        {
+            "name_icon": "burn",
+            "code_color": "f46a"
+        },
+        {
+            "name_icon": "bus",
+            "code_color": "f207"
+        },
+        {
+            "name_icon": "bus-alt",
+            "code_color": "f55e"
+        },
+        {
+            "name_icon": "business-time",
+            "code_color": "f64a"
+        },
+        {
+            "name_icon": "calculator",
+            "code_color": "f1ec"
+        },
+        {
+            "name_icon": "calendar",
+            "code_color": "f133"
+        },
+        {
+            "name_icon": "calendar-alt",
+            "code_color": "f073"
+        },
+        {
+            "name_icon": "calendar-check",
+            "code_color": "f274"
+        },
+        {
+            "name_icon": "calendar-day",
+            "code_color": "f783"
+        },
+        {
+            "name_icon": "calendar-minus",
+            "code_color": "f272"
+        },
+        {
+            "name_icon": "calendar-plus",
+            "code_color": "f271"
+        },
+        {
+            "name_icon": "calendar-times",
+            "code_color": "f273"
+        },
+        {
+            "name_icon": "calendar-week",
+            "code_color": "f784"
+        },
+        {
+            "name_icon": "camera",
+            "code_color": "f030"
+        },
+        {
+            "name_icon": "camera-retro",
+            "code_color": "f083"
+        },
+        {
+            "name_icon": "campground",
+            "code_color": "f6bb"
+        },
+        {
+            "name_icon": "candy-cane",
+            "code_color": "f786"
+        },
+        {
+            "name_icon": "cannabis",
+            "code_color": "f55f"
+        },
+        {
+            "name_icon": "capsules",
+            "code_color": "f46b"
+        },
+        {
+            "name_icon": "car",
+            "code_color": "f1b9"
+        },
+        {
+            "name_icon": "car-alt",
+            "code_color": "f5de"
+        },
+        {
+            "name_icon": "car-battery",
+            "code_color": "f5df"
+        },
+        {
+            "name_icon": "car-crash",
+            "code_color": "f5e1"
+        },
+        {
+            "name_icon": "car-side",
+            "code_color": "f5e4"
+        },
+        {
+            "name_icon": "caravan",
+            "code_color": "f8ff"
+        },
+        {
+            "name_icon": "caret-down",
+            "code_color": "f0d7"
+        },
+        {
+            "name_icon": "caret-left",
+            "code_color": "f0d9"
+        },
+        {
+            "name_icon": "caret-right",
+            "code_color": "f0da"
+        },
+        {
+            "name_icon": "caret-square-down",
+            "code_color": "f150"
+        },
+        {
+            "name_icon": "caret-square-left",
+            "code_color": "f191"
+        },
+        {
+            "name_icon": "caret-square-right",
+            "code_color": "f152"
+        },
+        {
+            "name_icon": "caret-square-up",
+            "code_color": "f151"
+        },
+        {
+            "name_icon": "caret-up",
+            "code_color": "f0d8"
+        },
+        {
+            "name_icon": "carrot",
+            "code_color": "f787"
+        },
+        {
+            "name_icon": "cart-arrow-down",
+            "code_color": "f218"
+        },
+        {
+            "name_icon": "cart-plus",
+            "code_color": "f217"
+        },
+        {
+            "name_icon": "cash-register",
+            "code_color": "f788"
+        },
+        {
+            "name_icon": "cat",
+            "code_color": "f6be"
+        },
+        {
+            "name_icon": "certificate",
+            "code_color": "f0a3"
+        },
+        {
+            "name_icon": "chair",
+            "code_color": "f6c0"
+        },
+        {
+            "name_icon": "chalkboard",
+            "code_color": "f51b"
+        },
+        {
+            "name_icon": "chalkboard-teacher",
+            "code_color": "f51c"
+        },
+        {
+            "name_icon": "charging-station",
+            "code_color": "f5e7"
+        },
+        {
+            "name_icon": "chart-area",
+            "code_color": "f1fe"
+        },
+        {
+            "name_icon": "chart-bar",
+            "code_color": "f080"
+        },
+        {
+            "name_icon": "chart-line",
+            "code_color": "f201"
+        },
+        {
+            "name_icon": "chart-pie",
+            "code_color": "f200"
+        },
+        {
+            "name_icon": "check",
+            "code_color": "f00c"
+        },
+        {
+            "name_icon": "check-circle",
+            "code_color": "f058"
+        },
+        {
+            "name_icon": "check-double",
+            "code_color": "f560"
+        },
+        {
+            "name_icon": "check-square",
+            "code_color": "f14a"
+        },
+        {
+            "name_icon": "cheese",
+            "code_color": "f7ef"
+        },
+        {
+            "name_icon": "chess",
+            "code_color": "f439"
+        },
+        {
+            "name_icon": "chess-bishop",
+            "code_color": "f43a"
+        },
+        {
+            "name_icon": "chess-board",
+            "code_color": "f43c"
+        },
+        {
+            "name_icon": "chess-king",
+            "code_color": "f43f"
+        },
+        {
+            "name_icon": "chess-knight",
+            "code_color": "f441"
+        },
+        {
+            "name_icon": "chess-pawn",
+            "code_color": "f443"
+        },
+        {
+            "name_icon": "chess-queen",
+            "code_color": "f445"
+        },
+        {
+            "name_icon": "chess-rook",
+            "code_color": "f447"
+        },
+        {
+            "name_icon": "chevron-circle-down",
+            "code_color": "f13a"
+        },
+        {
+            "name_icon": "chevron-circle-left",
+            "code_color": "f137"
+        },
+        {
+            "name_icon": "chevron-circle-right",
+            "code_color": "f138"
+        },
+        {
+            "name_icon": "chevron-circle-up",
+            "code_color": "f139"
+        },
+        {
+            "name_icon": "chevron-down",
+            "code_color": "f078"
+        },
+        {
+            "name_icon": "chevron-left",
+            "code_color": "f053"
+        },
+        {
+            "name_icon": "chevron-right",
+            "code_color": "f054"
+        },
+        {
+            "name_icon": "chevron-up",
+            "code_color": "f077"
+        },
+        {
+            "name_icon": "child",
+            "code_color": "f1ae"
+        },
+        {
+            "name_icon": "church",
+            "code_color": "f51d"
+        },
+        {
+            "name_icon": "circle",
+            "code_color": "f111"
+        },
+        {
+            "name_icon": "circle-notch",
+            "code_color": "f1ce"
+        },
+        {
+            "name_icon": "city",
+            "code_color": "f64f"
+        },
+        {
+            "name_icon": "clinic-medical",
+            "code_color": "f7f2"
+        },
+        {
+            "name_icon": "clipboard",
+            "code_color": "f328"
+        },
+        {
+            "name_icon": "clipboard-check",
+            "code_color": "f46c"
+        },
+        {
+            "name_icon": "clipboard-list",
+            "code_color": "f46d"
+        },
+        {
+            "name_icon": "clock",
+            "code_color": "f017"
+        },
+        {
+            "name_icon": "clone",
+            "code_color": "f24d"
+        },
+        {
+            "name_icon": "closed-captioning",
+            "code_color": "f20a"
+        },
+        {
+            "name_icon": "cloud",
+            "code_color": "f0c2"
+        },
+        {
+            "name_icon": "cloud-download-alt",
+            "code_color": "f381"
+        },
+        {
+            "name_icon": "cloud-meatball",
+            "code_color": "f73b"
+        },
+        {
+            "name_icon": "cloud-moon",
+            "code_color": "f6c3"
+        },
+        {
+            "name_icon": "cloud-moon-rain",
+            "code_color": "f73c"
+        },
+        {
+            "name_icon": "cloud-rain",
+            "code_color": "f73d"
+        },
+        {
+            "name_icon": "cloud-showers-heavy",
+            "code_color": "f740"
+        },
+        {
+            "name_icon": "cloud-sun",
+            "code_color": "f6c4"
+        },
+        {
+            "name_icon": "cloud-sun-rain",
+            "code_color": "f743"
+        },
+        {
+            "name_icon": "cloud-upload-alt",
+            "code_color": "f382"
+        },
+        {
+            "name_icon": "cocktail",
+            "code_color": "f561"
+        },
+        {
+            "name_icon": "code",
+            "code_color": "f121"
+        },
+        {
+            "name_icon": "code-branch",
+            "code_color": "f126"
+        },
+        {
+            "name_icon": "coffee",
+            "code_color": "f0f4"
+        },
+        {
+            "name_icon": "cog",
+            "code_color": "f013"
+        },
+        {
+            "name_icon": "cogs",
+            "code_color": "f085"
+        },
+        {
+            "name_icon": "coins",
+            "code_color": "f51e"
+        },
+        {
+            "name_icon": "columns",
+            "code_color": "f0db"
+        },
+        {
+            "name_icon": "comment",
+            "code_color": "f075"
+        },
+        {
+            "name_icon": "comment-alt",
+            "code_color": "f27a"
+        },
+        {
+            "name_icon": "comment-dollar",
+            "code_color": "f651"
+        },
+        {
+            "name_icon": "comment-dots",
+            "code_color": "f4ad"
+        },
+        {
+            "name_icon": "comment-medical",
+            "code_color": "f7f5"
+        },
+        {
+            "name_icon": "comment-slash",
+            "code_color": "f4b3"
+        },
+        {
+            "name_icon": "comments",
+            "code_color": "f086"
+        },
+        {
+            "name_icon": "comments-dollar",
+            "code_color": "f653"
+        },
+        {
+            "name_icon": "compact-disc",
+            "code_color": "f51f"
+        },
+        {
+            "name_icon": "compass",
+            "code_color": "f14e"
+        },
+        {
+            "name_icon": "compress",
+            "code_color": "f066"
+        },
+        {
+            "name_icon": "compress-alt",
+            "code_color": "f422"
+        },
+        {
+            "name_icon": "compress-arrows-alt",
+            "code_color": "f78c"
+        },
+        {
+            "name_icon": "concierge-bell",
+            "code_color": "f562"
+        },
+        {
+            "name_icon": "cookie",
+            "code_color": "f563"
+        },
+        {
+            "name_icon": "cookie-bite",
+            "code_color": "f564"
+        },
+        {
+            "name_icon": "copy",
+            "code_color": "f0c5"
+        },
+        {
+            "name_icon": "copyright",
+            "code_color": "f1f9"
+        },
+        {
+            "name_icon": "couch",
+            "code_color": "f4b8"
+        },
+        {
+            "name_icon": "credit-card",
+            "code_color": "f09d"
+        },
+        {
+            "name_icon": "crop",
+            "code_color": "f125"
+        },
+        {
+            "name_icon": "crop-alt",
+            "code_color": "f565"
+        },
+        {
+            "name_icon": "cross",
+            "code_color": "f654"
+        },
+        {
+            "name_icon": "crosshairs",
+            "code_color": "f05b"
+        },
+        {
+            "name_icon": "crow",
+            "code_color": "f520"
+        },
+        {
+            "name_icon": "crown",
+            "code_color": "f521"
+        },
+        {
+            "name_icon": "crutch",
+            "code_color": "f7f7"
+        },
+        {
+            "name_icon": "cube",
+            "code_color": "f1b2"
+        },
+        {
+            "name_icon": "cubes",
+            "code_color": "f1b3"
+        },
+        {
+            "name_icon": "cut",
+            "code_color": "f0c4"
+        },
+        {
+            "name_icon": "database",
+            "code_color": "f1c0"
+        },
+        {
+            "name_icon": "deaf",
+            "code_color": "f2a4"
+        },
+        {
+            "name_icon": "democrat",
+            "code_color": "f747"
+        },
+        {
+            "name_icon": "desktop",
+            "code_color": "f108"
+        },
+        {
+            "name_icon": "dharmachakra",
+            "code_color": "f655"
+        },
+        {
+            "name_icon": "diagnoses",
+            "code_color": "f470"
+        },
+        {
+            "name_icon": "dice",
+            "code_color": "f522"
+        },
+        {
+            "name_icon": "dice-d20",
+            "code_color": "f6cf"
+        },
+        {
+            "name_icon": "dice-d6",
+            "code_color": "f6d1"
+        },
+        {
+            "name_icon": "dice-five",
+            "code_color": "f523"
+        },
+        {
+            "name_icon": "dice-four",
+            "code_color": "f524"
+        },
+        {
+            "name_icon": "dice-one",
+            "code_color": "f525"
+        },
+        {
+            "name_icon": "dice-six",
+            "code_color": "f526"
+        },
+        {
+            "name_icon": "dice-three",
+            "code_color": "f527"
+        },
+        {
+            "name_icon": "dice-two",
+            "code_color": "f528"
+        },
+        {
+            "name_icon": "digital-tachograph",
+            "code_color": "f566"
+        },
+        {
+            "name_icon": "directions",
+            "code_color": "f5eb"
+        },
+        {
+            "name_icon": "disease",
+            "code_color": "f7fa"
+        },
+        {
+            "name_icon": "divide",
+            "code_color": "f529"
+        },
+        {
+            "name_icon": "dizzy",
+            "code_color": "f567"
+        },
+        {
+            "name_icon": "dna",
+            "code_color": "f471"
+        },
+        {
+            "name_icon": "dog",
+            "code_color": "f6d3"
+        },
+        {
+            "name_icon": "dollar-sign",
+            "code_color": "f155"
+        },
+        {
+            "name_icon": "dolly",
+            "code_color": "f472"
+        },
+        {
+            "name_icon": "dolly-flatbed",
+            "code_color": "f474"
+        },
+        {
+            "name_icon": "donate",
+            "code_color": "f4b9"
+        },
+        {
+            "name_icon": "door-closed",
+            "code_color": "f52a"
+        },
+        {
+            "name_icon": "door-open",
+            "code_color": "f52b"
+        },
+        {
+            "name_icon": "dot-circle",
+            "code_color": "f192"
+        },
+        {
+            "name_icon": "dove",
+            "code_color": "f4ba"
+        },
+        {
+            "name_icon": "download",
+            "code_color": "f019"
+        },
+        {
+            "name_icon": "drafting-compass",
+            "code_color": "f568"
+        },
+        {
+            "name_icon": "dragon",
+            "code_color": "f6d5"
+        },
+        {
+            "name_icon": "draw-polygon",
+            "code_color": "f5ee"
+        },
+        {
+            "name_icon": "drum",
+            "code_color": "f569"
+        },
+        {
+            "name_icon": "drum-steelpan",
+            "code_color": "f56a"
+        },
+        {
+            "name_icon": "drumstick-bite",
+            "code_color": "f6d7"
+        },
+        {
+            "name_icon": "dumbbell",
+            "code_color": "f44b"
+        },
+        {
+            "name_icon": "dumpster",
+            "code_color": "f793"
+        },
+        {
+            "name_icon": "dumpster-fire",
+            "code_color": "f794"
+        },
+        {
+            "name_icon": "dungeon",
+            "code_color": "f6d9"
+        },
+        {
+            "name_icon": "edit",
+            "code_color": "f044"
+        },
+        {
+            "name_icon": "egg",
+            "code_color": "f7fb"
+        },
+        {
+            "name_icon": "eject",
+            "code_color": "f052"
+        },
+        {
+            "name_icon": "ellipsis-h",
+            "code_color": "f141"
+        },
+        {
+            "name_icon": "ellipsis-v",
+            "code_color": "f142"
+        },
+        {
+            "name_icon": "envelope",
+            "code_color": "f0e0"
+        },
+        {
+            "name_icon": "envelope-open",
+            "code_color": "f2b6"
+        },
+        {
+            "name_icon": "envelope-open-text",
+            "code_color": "f658"
+        },
+        {
+            "name_icon": "envelope-square",
+            "code_color": "f199"
+        },
+        {
+            "name_icon": "equals",
+            "code_color": "f52c"
+        },
+        {
+            "name_icon": "eraser",
+            "code_color": "f12d"
+        },
+        {
+            "name_icon": "ethernet",
+            "code_color": "f796"
+        },
+        {
+            "name_icon": "euro-sign",
+            "code_color": "f153"
+        },
+        {
+            "name_icon": "exchange-alt",
+            "code_color": "f362"
+        },
+        {
+            "name_icon": "exclamation",
+            "code_color": "f12a"
+        },
+        {
+            "name_icon": "exclamation-circle",
+            "code_color": "f06a"
+        },
+        {
+            "name_icon": "exclamation-triangle",
+            "code_color": "f071"
+        },
+        {
+            "name_icon": "expand",
+            "code_color": "f065"
+        },
+        {
+            "name_icon": "expand-alt",
+            "code_color": "f424"
+        },
+        {
+            "name_icon": "expand-arrows-alt",
+            "code_color": "f31e"
+        },
+        {
+            "name_icon": "external-link-alt",
+            "code_color": "f35d"
+        },
+        {
+            "name_icon": "external-link-square-alt",
+            "code_color": "f360"
+        },
+        {
+            "name_icon": "eye",
+            "code_color": "f06e"
+        },
+        {
+            "name_icon": "eye-dropper",
+            "code_color": "f1fb"
+        },
+        {
+            "name_icon": "eye-slash",
+            "code_color": "f070"
+        },
+        {
+            "name_icon": "fan",
+            "code_color": "f863"
+        },
+        {
+            "name_icon": "fast-backward",
+            "code_color": "f049"
+        },
+        {
+            "name_icon": "fast-forward",
+            "code_color": "f050"
+        },
+        {
+            "name_icon": "faucet",
+            "code_color": "e005"
+        },
+        {
+            "name_icon": "fax",
+            "code_color": "f1ac"
+        },
+        {
+            "name_icon": "feather",
+            "code_color": "f52d"
+        },
+        {
+            "name_icon": "feather-alt",
+            "code_color": "f56b"
+        },
+        {
+            "name_icon": "female",
+            "code_color": "f182"
+        },
+        {
+            "name_icon": "fighter-jet",
+            "code_color": "f0fb"
+        },
+        {
+            "name_icon": "file",
+            "code_color": "f15b"
+        },
+        {
+            "name_icon": "file-alt",
+            "code_color": "f15c"
+        },
+        {
+            "name_icon": "file-archive",
+            "code_color": "f1c6"
+        },
+        {
+            "name_icon": "file-audio",
+            "code_color": "f1c7"
+        },
+        {
+            "name_icon": "file-code",
+            "code_color": "f1c9"
+        },
+        {
+            "name_icon": "file-contract",
+            "code_color": "f56c"
+        },
+        {
+            "name_icon": "file-csv",
+            "code_color": "f6dd"
+        },
+        {
+            "name_icon": "file-download",
+            "code_color": "f56d"
+        },
+        {
+            "name_icon": "file-excel",
+            "code_color": "f1c3"
+        },
+        {
+            "name_icon": "file-export",
+            "code_color": "f56e"
+        },
+        {
+            "name_icon": "file-image",
+            "code_color": "f1c5"
+        },
+        {
+            "name_icon": "file-import",
+            "code_color": "f56f"
+        },
+        {
+            "name_icon": "file-invoice",
+            "code_color": "f570"
+        },
+        {
+            "name_icon": "file-invoice-dollar",
+            "code_color": "f571"
+        },
+        {
+            "name_icon": "file-medical",
+            "code_color": "f477"
+        },
+        {
+            "name_icon": "file-medical-alt",
+            "code_color": "f478"
+        },
+        {
+            "name_icon": "file-pdf",
+            "code_color": "f1c1"
+        },
+        {
+            "name_icon": "file-powerpoint",
+            "code_color": "f1c4"
+        },
+        {
+            "name_icon": "file-prescription",
+            "code_color": "f572"
+        },
+        {
+            "name_icon": "file-signature",
+            "code_color": "f573"
+        },
+        {
+            "name_icon": "file-upload",
+            "code_color": "f574"
+        },
+        {
+            "name_icon": "file-video",
+            "code_color": "f1c8"
+        },
+        {
+            "name_icon": "file-word",
+            "code_color": "f1c2"
+        },
+        {
+            "name_icon": "fill",
+            "code_color": "f575"
+        },
+        {
+            "name_icon": "fill-drip",
+            "code_color": "f576"
+        },
+        {
+            "name_icon": "film",
+            "code_color": "f008"
+        },
+        {
+            "name_icon": "filter",
+            "code_color": "f0b0"
+        },
+        {
+            "name_icon": "fingerprint",
+            "code_color": "f577"
+        },
+        {
+            "name_icon": "fire",
+            "code_color": "f06d"
+        },
+        {
+            "name_icon": "fire-alt",
+            "code_color": "f7e4"
+        },
+        {
+            "name_icon": "fire-extinguisher",
+            "code_color": "f134"
+        },
+        {
+            "name_icon": "first-aid",
+            "code_color": "f479"
+        },
+        {
+            "name_icon": "fish",
+            "code_color": "f578"
+        },
+        {
+            "name_icon": "fist-raised",
+            "code_color": "f6de"
+        },
+        {
+            "name_icon": "flag",
+            "code_color": "f024"
+        },
+        {
+            "name_icon": "flag-checkered",
+            "code_color": "f11e"
+        },
+        {
+            "name_icon": "flag-usa",
+            "code_color": "f74d"
+        },
+        {
+            "name_icon": "flask",
+            "code_color": "f0c3"
+        },
+        {
+            "name_icon": "flushed",
+            "code_color": "f579"
+        },
+        {
+            "name_icon": "folder",
+            "code_color": "f07b"
+        },
+        {
+            "name_icon": "folder-minus",
+            "code_color": "f65d"
+        },
+        {
+            "name_icon": "folder-open",
+            "code_color": "f07c"
+        },
+        {
+            "name_icon": "folder-plus",
+            "code_color": "f65e"
+        },
+        {
+            "name_icon": "font",
+            "code_color": "f031"
+        },
+        {
+            "name_icon": "font-awesome-logo-full",
+            "code_color": "f4e6"
+        },
+        {
+            "name_icon": "football-ball",
+            "code_color": "f44e"
+        },
+        {
+            "name_icon": "forward",
+            "code_color": "f04e"
+        },
+        {
+            "name_icon": "frog",
+            "code_color": "f52e"
+        },
+        {
+            "name_icon": "frown",
+            "code_color": "f119"
+        },
+        {
+            "name_icon": "frown-open",
+            "code_color": "f57a"
+        },
+        {
+            "name_icon": "funnel-dollar",
+            "code_color": "f662"
+        },
+        {
+            "name_icon": "futbol",
+            "code_color": "f1e3"
+        },
+        {
+            "name_icon": "gamepad",
+            "code_color": "f11b"
+        },
+        {
+            "name_icon": "gas-pump",
+            "code_color": "f52f"
+        },
+        {
+            "name_icon": "gavel",
+            "code_color": "f0e3"
+        },
+        {
+            "name_icon": "gem",
+            "code_color": "f3a5"
+        },
+        {
+            "name_icon": "genderless",
+            "code_color": "f22d"
+        },
+        {
+            "name_icon": "ghost",
+            "code_color": "f6e2"
+        },
+        {
+            "name_icon": "gift",
+            "code_color": "f06b"
+        },
+        {
+            "name_icon": "gifts",
+            "code_color": "f79c"
+        },
+        {
+            "name_icon": "glass-cheers",
+            "code_color": "f79f"
+        },
+        {
+            "name_icon": "glass-martini",
+            "code_color": "f000"
+        },
+        {
+            "name_icon": "glass-martini-alt",
+            "code_color": "f57b"
+        },
+        {
+            "name_icon": "glass-whiskey",
+            "code_color": "f7a0"
+        },
+        {
+            "name_icon": "glasses",
+            "code_color": "f530"
+        },
+        {
+            "name_icon": "globe",
+            "code_color": "f0ac"
+        },
+        {
+            "name_icon": "globe-africa",
+            "code_color": "f57c"
+        },
+        {
+            "name_icon": "globe-americas",
+            "code_color": "f57d"
+        },
+        {
+            "name_icon": "globe-asia",
+            "code_color": "f57e"
+        },
+        {
+            "name_icon": "globe-europe",
+            "code_color": "f7a2"
+        },
+        {
+            "name_icon": "golf-ball",
+            "code_color": "f450"
+        },
+        {
+            "name_icon": "gopuram",
+            "code_color": "f664"
+        },
+        {
+            "name_icon": "graduation-cap",
+            "code_color": "f19d"
+        },
+        {
+            "name_icon": "greater-than",
+            "code_color": "f531"
+        },
+        {
+            "name_icon": "greater-than-equal",
+            "code_color": "f532"
+        },
+        {
+            "name_icon": "grimace",
+            "code_color": "f57f"
+        },
+        {
+            "name_icon": "grin",
+            "code_color": "f580"
+        },
+        {
+            "name_icon": "grin-alt",
+            "code_color": "f581"
+        },
+        {
+            "name_icon": "grin-beam",
+            "code_color": "f582"
+        },
+        {
+            "name_icon": "grin-beam-sweat",
+            "code_color": "f583"
+        },
+        {
+            "name_icon": "grin-hearts",
+            "code_color": "f584"
+        },
+        {
+            "name_icon": "grin-squint",
+            "code_color": "f585"
+        },
+        {
+            "name_icon": "grin-squint-tears",
+            "code_color": "f586"
+        },
+        {
+            "name_icon": "grin-stars",
+            "code_color": "f587"
+        },
+        {
+            "name_icon": "grin-tears",
+            "code_color": "f588"
+        },
+        {
+            "name_icon": "grin-tongue",
+            "code_color": "f589"
+        },
+        {
+            "name_icon": "grin-tongue-squint",
+            "code_color": "f58a"
+        },
+        {
+            "name_icon": "grin-tongue-wink",
+            "code_color": "f58b"
+        },
+        {
+            "name_icon": "grin-wink",
+            "code_color": "f58c"
+        },
+        {
+            "name_icon": "grip-horizontal",
+            "code_color": "f58d"
+        },
+        {
+            "name_icon": "grip-lines",
+            "code_color": "f7a4"
+        },
+        {
+            "name_icon": "grip-lines-vertical",
+            "code_color": "f7a5"
+        },
+        {
+            "name_icon": "grip-vertical",
+            "code_color": "f58e"
+        },
+        {
+            "name_icon": "guitar",
+            "code_color": "f7a6"
+        },
+        {
+            "name_icon": "h-square",
+            "code_color": "f0fd"
+        },
+        {
+            "name_icon": "hamburger",
+            "code_color": "f805"
+        },
+        {
+            "name_icon": "hammer",
+            "code_color": "f6e3"
+        },
+        {
+            "name_icon": "hamsa",
+            "code_color": "f665"
+        },
+        {
+            "name_icon": "hand-holding",
+            "code_color": "f4bd"
+        },
+        {
+            "name_icon": "hand-holding-heart",
+            "code_color": "f4be"
+        },
+        {
+            "name_icon": "hand-holding-medical",
+            "code_color": "e05c"
+        },
+        {
+            "name_icon": "hand-holding-usd",
+            "code_color": "f4c0"
+        },
+        {
+            "name_icon": "hand-holding-water",
+            "code_color": "f4c1"
+        },
+        {
+            "name_icon": "hand-lizard",
+            "code_color": "f258"
+        },
+        {
+            "name_icon": "hand-middle-finger",
+            "code_color": "f806"
+        },
+        {
+            "name_icon": "hand-paper",
+            "code_color": "f256"
+        },
+        {
+            "name_icon": "hand-peace",
+            "code_color": "f25b"
+        },
+        {
+            "name_icon": "hand-point-down",
+            "code_color": "f0a7"
+        },
+        {
+            "name_icon": "hand-point-left",
+            "code_color": "f0a5"
+        },
+        {
+            "name_icon": "hand-point-right",
+            "code_color": "f0a4"
+        },
+        {
+            "name_icon": "hand-point-up",
+            "code_color": "f0a6"
+        },
+        {
+            "name_icon": "hand-pointer",
+            "code_color": "f25a"
+        },
+        {
+            "name_icon": "hand-rock",
+            "code_color": "f255"
+        },
+        {
+            "name_icon": "hand-scissors",
+            "code_color": "f257"
+        },
+        {
+            "name_icon": "hand-sparkles",
+            "code_color": "e05d"
+        },
+        {
+            "name_icon": "hand-spock",
+            "code_color": "f259"
+        },
+        {
+            "name_icon": "hands",
+            "code_color": "f4c2"
+        },
+        {
+            "name_icon": "hands-helping",
+            "code_color": "f4c4"
+        },
+        {
+            "name_icon": "hands-wash",
+            "code_color": "e05e"
+        },
+        {
+            "name_icon": "handshake",
+            "code_color": "f2b5"
+        },
+        {
+            "name_icon": "handshake-alt-slash",
+            "code_color": "e05f"
+        },
+        {
+            "name_icon": "handshake-slash",
+            "code_color": "e060"
+        },
+        {
+            "name_icon": "hanukiah",
+            "code_color": "f6e6"
+        },
+        {
+            "name_icon": "hard-hat",
+            "code_color": "f807"
+        },
+        {
+            "name_icon": "hashtag",
+            "code_color": "f292"
+        },
+        {
+            "name_icon": "hat-cowboy",
+            "code_color": "f8c0"
+        },
+        {
+            "name_icon": "hat-cowboy-side",
+            "code_color": "f8c1"
+        },
+        {
+            "name_icon": "hat-wizard",
+            "code_color": "f6e8"
+        },
+        {
+            "name_icon": "hdd",
+            "code_color": "f0a0"
+        },
+        {
+            "name_icon": "head-side-cough",
+            "code_color": "e061"
+        },
+        {
+            "name_icon": "head-side-cough-slash",
+            "code_color": "e062"
+        },
+        {
+            "name_icon": "head-side-mask",
+            "code_color": "e063"
+        },
+        {
+            "name_icon": "head-side-virus",
+            "code_color": "e064"
+        },
+        {
+            "name_icon": "heading",
+            "code_color": "f1dc"
+        },
+        {
+            "name_icon": "headphones",
+            "code_color": "f025"
+        },
+        {
+            "name_icon": "headphones-alt",
+            "code_color": "f58f"
+        },
+        {
+            "name_icon": "headset",
+            "code_color": "f590"
+        },
+        {
+            "name_icon": "heart",
+            "code_color": "f004"
+        },
+        {
+            "name_icon": "heart-broken",
+            "code_color": "f7a9"
+        },
+        {
+            "name_icon": "heartbeat",
+            "code_color": "f21e"
+        },
+        {
+            "name_icon": "helicopter",
+            "code_color": "f533"
+        },
+        {
+            "name_icon": "highlighter",
+            "code_color": "f591"
+        },
+        {
+            "name_icon": "hiking",
+            "code_color": "f6ec"
+        },
+        {
+            "name_icon": "hippo",
+            "code_color": "f6ed"
+        },
+        {
+            "name_icon": "history",
+            "code_color": "f1da"
+        },
+        {
+            "name_icon": "hockey-puck",
+            "code_color": "f453"
+        },
+        {
+            "name_icon": "holly-berry",
+            "code_color": "f7aa"
+        },
+        {
+            "name_icon": "home",
+            "code_color": "f015"
+        },
+        {
+            "name_icon": "horse",
+            "code_color": "f6f0"
+        },
+        {
+            "name_icon": "horse-head",
+            "code_color": "f7ab"
+        },
+        {
+            "name_icon": "hospital",
+            "code_color": "f0f8"
+        },
+        {
+            "name_icon": "hospital-alt",
+            "code_color": "f47d"
+        },
+        {
+            "name_icon": "hospital-symbol",
+            "code_color": "f47e"
+        },
+        {
+            "name_icon": "hospital-user",
+            "code_color": "f80d"
+        },
+        {
+            "name_icon": "hot-tub",
+            "code_color": "f593"
+        },
+        {
+            "name_icon": "hotdog",
+            "code_color": "f80f"
+        },
+        {
+            "name_icon": "hotel",
+            "code_color": "f594"
+        },
+        {
+            "name_icon": "hourglass",
+            "code_color": "f254"
+        },
+        {
+            "name_icon": "hourglass-end",
+            "code_color": "f253"
+        },
+        {
+            "name_icon": "hourglass-half",
+            "code_color": "f252"
+        },
+        {
+            "name_icon": "hourglass-start",
+            "code_color": "f251"
+        },
+        {
+            "name_icon": "house-damage",
+            "code_color": "f6f1"
+        },
+        {
+            "name_icon": "house-user",
+            "code_color": "e065"
+        },
+        {
+            "name_icon": "hryvnia",
+            "code_color": "f6f2"
+        },
+        {
+            "name_icon": "i-cursor",
+            "code_color": "f246"
+        },
+        {
+            "name_icon": "ice-cream",
+            "code_color": "f810"
+        },
+        {
+            "name_icon": "icicles",
+            "code_color": "f7ad"
+        },
+        {
+            "name_icon": "icons",
+            "code_color": "f86d"
+        },
+        {
+            "name_icon": "id-badge",
+            "code_color": "f2c1"
+        },
+        {
+            "name_icon": "id-card",
+            "code_color": "f2c2"
+        },
+        {
+            "name_icon": "id-card-alt",
+            "code_color": "f47f"
+        },
+        {
+            "name_icon": "igloo",
+            "code_color": "f7ae"
+        },
+        {
+            "name_icon": "image",
+            "code_color": "f03e"
+        },
+        {
+            "name_icon": "images",
+            "code_color": "f302"
+        },
+        {
+            "name_icon": "inbox",
+            "code_color": "f01c"
+        },
+        {
+            "name_icon": "indent",
+            "code_color": "f03c"
+        },
+        {
+            "name_icon": "industry",
+            "code_color": "f275"
+        },
+        {
+            "name_icon": "infinity",
+            "code_color": "f534"
+        },
+        {
+            "name_icon": "info",
+            "code_color": "f129"
+        },
+        {
+            "name_icon": "info-circle",
+            "code_color": "f05a"
+        },
+        {
+            "name_icon": "italic",
+            "code_color": "f033"
+        },
+        {
+            "name_icon": "jedi",
+            "code_color": "f669"
+        },
+        {
+            "name_icon": "joint",
+            "code_color": "f595"
+        },
+        {
+            "name_icon": "journal-whills",
+            "code_color": "f66a"
+        },
+        {
+            "name_icon": "kaaba",
+            "code_color": "f66b"
+        },
+        {
+            "name_icon": "key",
+            "code_color": "f084"
+        },
+        {
+            "name_icon": "keyboard",
+            "code_color": "f11c"
+        },
+        {
+            "name_icon": "khanda",
+            "code_color": "f66d"
+        },
+        {
+            "name_icon": "kiss",
+            "code_color": "f596"
+        },
+        {
+            "name_icon": "kiss-beam",
+            "code_color": "f597"
+        },
+        {
+            "name_icon": "kiss-wink-heart",
+            "code_color": "f598"
+        },
+        {
+            "name_icon": "kiwi-bird",
+            "code_color": "f535"
+        },
+        {
+            "name_icon": "landmark",
+            "code_color": "f66f"
+        },
+        {
+            "name_icon": "language",
+            "code_color": "f1ab"
+        },
+        {
+            "name_icon": "laptop",
+            "code_color": "f109"
+        },
+        {
+            "name_icon": "laptop-code",
+            "code_color": "f5fc"
+        },
+        {
+            "name_icon": "laptop-house",
+            "code_color": "e066"
+        },
+        {
+            "name_icon": "laptop-medical",
+            "code_color": "f812"
+        },
+        {
+            "name_icon": "laugh",
+            "code_color": "f599"
+        },
+        {
+            "name_icon": "laugh-beam",
+            "code_color": "f59a"
+        },
+        {
+            "name_icon": "laugh-squint",
+            "code_color": "f59b"
+        },
+        {
+            "name_icon": "laugh-wink",
+            "code_color": "f59c"
+        },
+        {
+            "name_icon": "layer-group",
+            "code_color": "f5fd"
+        },
+        {
+            "name_icon": "leaf",
+            "code_color": "f06c"
+        },
+        {
+            "name_icon": "lemon",
+            "code_color": "f094"
+        },
+        {
+            "name_icon": "less-than",
+            "code_color": "f536"
+        },
+        {
+            "name_icon": "less-than-equal",
+            "code_color": "f537"
+        },
+        {
+            "name_icon": "level-down-alt",
+            "code_color": "f3be"
+        },
+        {
+            "name_icon": "level-up-alt",
+            "code_color": "f3bf"
+        },
+        {
+            "name_icon": "life-ring",
+            "code_color": "f1cd"
+        },
+        {
+            "name_icon": "lightbulb",
+            "code_color": "f0eb"
+        },
+        {
+            "name_icon": "link",
+            "code_color": "f0c1"
+        },
+        {
+            "name_icon": "lira-sign",
+            "code_color": "f195"
+        },
+        {
+            "name_icon": "list",
+            "code_color": "f03a"
+        },
+        {
+            "name_icon": "list-alt",
+            "code_color": "f022"
+        },
+        {
+            "name_icon": "list-ol",
+            "code_color": "f0cb"
+        },
+        {
+            "name_icon": "list-ul",
+            "code_color": "f0ca"
+        },
+        {
+            "name_icon": "location-arrow",
+            "code_color": "f124"
+        },
+        {
+            "name_icon": "lock",
+            "code_color": "f023"
+        },
+        {
+            "name_icon": "lock-open",
+            "code_color": "f3c1"
+        },
+        {
+            "name_icon": "long-arrow-alt-down",
+            "code_color": "f309"
+        },
+        {
+            "name_icon": "long-arrow-alt-left",
+            "code_color": "f30a"
+        },
+        {
+            "name_icon": "long-arrow-alt-right",
+            "code_color": "f30b"
+        },
+        {
+            "name_icon": "long-arrow-alt-up",
+            "code_color": "f30c"
+        },
+        {
+            "name_icon": "low-vision",
+            "code_color": "f2a8"
+        },
+        {
+            "name_icon": "luggage-cart",
+            "code_color": "f59d"
+        },
+        {
+            "name_icon": "lungs",
+            "code_color": "f604"
+        },
+        {
+            "name_icon": "lungs-virus",
+            "code_color": "e067"
+        },
+        {
+            "name_icon": "magic",
+            "code_color": "f0d0"
+        },
+        {
+            "name_icon": "magnet",
+            "code_color": "f076"
+        },
+        {
+            "name_icon": "mail-bulk",
+            "code_color": "f674"
+        },
+        {
+            "name_icon": "male",
+            "code_color": "f183"
+        },
+        {
+            "name_icon": "map",
+            "code_color": "f279"
+        },
+        {
+            "name_icon": "map-marked",
+            "code_color": "f59f"
+        },
+        {
+            "name_icon": "map-marked-alt",
+            "code_color": "f5a0"
+        },
+        {
+            "name_icon": "map-marker",
+            "code_color": "f041"
+        },
+        {
+            "name_icon": "map-marker-alt",
+            "code_color": "f3c5"
+        },
+        {
+            "name_icon": "map-pin",
+            "code_color": "f276"
+        },
+        {
+            "name_icon": "map-signs",
+            "code_color": "f277"
+        },
+        {
+            "name_icon": "marker",
+            "code_color": "f5a1"
+        },
+        {
+            "name_icon": "mars",
+            "code_color": "f222"
+        },
+        {
+            "name_icon": "mars-double",
+            "code_color": "f227"
+        },
+        {
+            "name_icon": "mars-stroke",
+            "code_color": "f229"
+        },
+        {
+            "name_icon": "mars-stroke-h",
+            "code_color": "f22b"
+        },
+        {
+            "name_icon": "mars-stroke-v",
+            "code_color": "f22a"
+        },
+        {
+            "name_icon": "mask",
+            "code_color": "f6fa"
+        },
+        {
+            "name_icon": "medal",
+            "code_color": "f5a2"
+        },
+        {
+            "name_icon": "medkit",
+            "code_color": "f0fa"
+        },
+        {
+            "name_icon": "meh",
+            "code_color": "f11a"
+        },
+        {
+            "name_icon": "meh-blank",
+            "code_color": "f5a4"
+        },
+        {
+            "name_icon": "meh-rolling-eyes",
+            "code_color": "f5a5"
+        },
+        {
+            "name_icon": "memory",
+            "code_color": "f538"
+        },
+        {
+            "name_icon": "menorah",
+            "code_color": "f676"
+        },
+        {
+            "name_icon": "mercury",
+            "code_color": "f223"
+        },
+        {
+            "name_icon": "meteor",
+            "code_color": "f753"
+        },
+        {
+            "name_icon": "microchip",
+            "code_color": "f2db"
+        },
+        {
+            "name_icon": "microphone",
+            "code_color": "f130"
+        },
+        {
+            "name_icon": "microphone-alt",
+            "code_color": "f3c9"
+        },
+        {
+            "name_icon": "microphone-alt-slash",
+            "code_color": "f539"
+        },
+        {
+            "name_icon": "microphone-slash",
+            "code_color": "f131"
+        },
+        {
+            "name_icon": "microscope",
+            "code_color": "f610"
+        },
+        {
+            "name_icon": "minus",
+            "code_color": "f068"
+        },
+        {
+            "name_icon": "minus-circle",
+            "code_color": "f056"
+        },
+        {
+            "name_icon": "minus-square",
+            "code_color": "f146"
+        },
+        {
+            "name_icon": "mitten",
+            "code_color": "f7b5"
+        },
+        {
+            "name_icon": "mobile",
+            "code_color": "f10b"
+        },
+        {
+            "name_icon": "mobile-alt",
+            "code_color": "f3cd"
+        },
+        {
+            "name_icon": "money-bill",
+            "code_color": "f0d6"
+        },
+        {
+            "name_icon": "money-bill-alt",
+            "code_color": "f3d1"
+        },
+        {
+            "name_icon": "money-bill-wave",
+            "code_color": "f53a"
+        },
+        {
+            "name_icon": "money-bill-wave-alt",
+            "code_color": "f53b"
+        },
+        {
+            "name_icon": "money-check",
+            "code_color": "f53c"
+        },
+        {
+            "name_icon": "money-check-alt",
+            "code_color": "f53d"
+        },
+        {
+            "name_icon": "monument",
+            "code_color": "f5a6"
+        },
+        {
+            "name_icon": "moon",
+            "code_color": "f186"
+        },
+        {
+            "name_icon": "mortar-pestle",
+            "code_color": "f5a7"
+        },
+        {
+            "name_icon": "mosque",
+            "code_color": "f678"
+        },
+        {
+            "name_icon": "motorcycle",
+            "code_color": "f21c"
+        },
+        {
+            "name_icon": "mountain",
+            "code_color": "f6fc"
+        },
+        {
+            "name_icon": "mouse",
+            "code_color": "f8cc"
+        },
+        {
+            "name_icon": "mouse-pointer",
+            "code_color": "f245"
+        },
+        {
+            "name_icon": "mug-hot",
+            "code_color": "f7b6"
+        },
+        {
+            "name_icon": "music",
+            "code_color": "f001"
+        },
+        {
+            "name_icon": "network-wired",
+            "code_color": "f6ff"
+        },
+        {
+            "name_icon": "neuter",
+            "code_color": "f22c"
+        },
+        {
+            "name_icon": "newspaper",
+            "code_color": "f1ea"
+        },
+        {
+            "name_icon": "not-equal",
+            "code_color": "f53e"
+        },
+        {
+            "name_icon": "notes-medical",
+            "code_color": "f481"
+        },
+        {
+            "name_icon": "object-group",
+            "code_color": "f247"
+        },
+        {
+            "name_icon": "object-ungroup",
+            "code_color": "f248"
+        },
+        {
+            "name_icon": "oil-can",
+            "code_color": "f613"
+        },
+        {
+            "name_icon": "om",
+            "code_color": "f679"
+        },
+        {
+            "name_icon": "otter",
+            "code_color": "f700"
+        },
+        {
+            "name_icon": "outdent",
+            "code_color": "f03b"
+        },
+        {
+            "name_icon": "pager",
+            "code_color": "f815"
+        },
+        {
+            "name_icon": "paint-brush",
+            "code_color": "f1fc"
+        },
+        {
+            "name_icon": "paint-roller",
+            "code_color": "f5aa"
+        },
+        {
+            "name_icon": "palette",
+            "code_color": "f53f"
+        },
+        {
+            "name_icon": "pallet",
+            "code_color": "f482"
+        },
+        {
+            "name_icon": "paper-plane",
+            "code_color": "f1d8"
+        },
+        {
+            "name_icon": "paperclip",
+            "code_color": "f0c6"
+        },
+        {
+            "name_icon": "parachute-box",
+            "code_color": "f4cd"
+        },
+        {
+            "name_icon": "paragraph",
+            "code_color": "f1dd"
+        },
+        {
+            "name_icon": "parking",
+            "code_color": "f540"
+        },
+        {
+            "name_icon": "passport",
+            "code_color": "f5ab"
+        },
+        {
+            "name_icon": "pastafarianism",
+            "code_color": "f67b"
+        },
+        {
+            "name_icon": "paste",
+            "code_color": "f0ea"
+        },
+        {
+            "name_icon": "pause",
+            "code_color": "f04c"
+        },
+        {
+            "name_icon": "pause-circle",
+            "code_color": "f28b"
+        },
+        {
+            "name_icon": "paw",
+            "code_color": "f1b0"
+        },
+        {
+            "name_icon": "peace",
+            "code_color": "f67c"
+        },
+        {
+            "name_icon": "pen",
+            "code_color": "f304"
+        },
+        {
+            "name_icon": "pen-alt",
+            "code_color": "f305"
+        },
+        {
+            "name_icon": "pen-fancy",
+            "code_color": "f5ac"
+        },
+        {
+            "name_icon": "pen-nib",
+            "code_color": "f5ad"
+        },
+        {
+            "name_icon": "pen-square",
+            "code_color": "f14b"
+        },
+        {
+            "name_icon": "pencil-alt",
+            "code_color": "f303"
+        },
+        {
+            "name_icon": "pencil-ruler",
+            "code_color": "f5ae"
+        },
+        {
+            "name_icon": "people-arrows",
+            "code_color": "e068"
+        },
+        {
+            "name_icon": "people-carry",
+            "code_color": "f4ce"
+        },
+        {
+            "name_icon": "pepper-hot",
+            "code_color": "f816"
+        },
+        {
+            "name_icon": "percent",
+            "code_color": "f295"
+        },
+        {
+            "name_icon": "percentage",
+            "code_color": "f541"
+        },
+        {
+            "name_icon": "person-booth",
+            "code_color": "f756"
+        },
+        {
+            "name_icon": "phone",
+            "code_color": "f095"
+        },
+        {
+            "name_icon": "phone-alt",
+            "code_color": "f879"
+        },
+        {
+            "name_icon": "phone-slash",
+            "code_color": "f3dd"
+        },
+        {
+            "name_icon": "phone-square",
+            "code_color": "f098"
+        },
+        {
+            "name_icon": "phone-square-alt",
+            "code_color": "f87b"
+        },
+        {
+            "name_icon": "phone-volume",
+            "code_color": "f2a0"
+        },
+        {
+            "name_icon": "photo-video",
+            "code_color": "f87c"
+        },
+        {
+            "name_icon": "piggy-bank",
+            "code_color": "f4d3"
+        },
+        {
+            "name_icon": "pills",
+            "code_color": "f484"
+        },
+        {
+            "name_icon": "pizza-slice",
+            "code_color": "f818"
+        },
+        {
+            "name_icon": "place-of-worship",
+            "code_color": "f67f"
+        },
+        {
+            "name_icon": "plane",
+            "code_color": "f072"
+        },
+        {
+            "name_icon": "plane-arrival",
+            "code_color": "f5af"
+        },
+        {
+            "name_icon": "plane-departure",
+            "code_color": "f5b0"
+        },
+        {
+            "name_icon": "plane-slash",
+            "code_color": "e069"
+        },
+        {
+            "name_icon": "play",
+            "code_color": "f04b"
+        },
+        {
+            "name_icon": "play-circle",
+            "code_color": "f144"
+        },
+        {
+            "name_icon": "plug",
+            "code_color": "f1e6"
+        },
+        {
+            "name_icon": "plus",
+            "code_color": "f067"
+        },
+        {
+            "name_icon": "plus-circle",
+            "code_color": "f055"
+        },
+        {
+            "name_icon": "plus-square",
+            "code_color": "f0fe"
+        },
+        {
+            "name_icon": "podcast",
+            "code_color": "f2ce"
+        },
+        {
+            "name_icon": "poll",
+            "code_color": "f681"
+        },
+        {
+            "name_icon": "poll-h",
+            "code_color": "f682"
+        },
+        {
+            "name_icon": "poo",
+            "code_color": "f2fe"
+        },
+        {
+            "name_icon": "poo-storm",
+            "code_color": "f75a"
+        },
+        {
+            "name_icon": "poop",
+            "code_color": "f619"
+        },
+        {
+            "name_icon": "portrait",
+            "code_color": "f3e0"
+        },
+        {
+            "name_icon": "pound-sign",
+            "code_color": "f154"
+        },
+        {
+            "name_icon": "power-off",
+            "code_color": "f011"
+        },
+        {
+            "name_icon": "pray",
+            "code_color": "f683"
+        },
+        {
+            "name_icon": "praying-hands",
+            "code_color": "f684"
+        },
+        {
+            "name_icon": "prescription",
+            "code_color": "f5b1"
+        },
+        {
+            "name_icon": "prescription-bottle",
+            "code_color": "f485"
+        },
+        {
+            "name_icon": "prescription-bottle-alt",
+            "code_color": "f486"
+        },
+        {
+            "name_icon": "print",
+            "code_color": "f02f"
+        },
+        {
+            "name_icon": "procedures",
+            "code_color": "f487"
+        },
+        {
+            "name_icon": "project-diagram",
+            "code_color": "f542"
+        },
+        {
+            "name_icon": "pump-medical",
+            "code_color": "e06a"
+        },
+        {
+            "name_icon": "pump-soap",
+            "code_color": "e06b"
+        },
+        {
+            "name_icon": "puzzle-piece",
+            "code_color": "f12e"
+        },
+        {
+            "name_icon": "qrcode",
+            "code_color": "f029"
+        },
+        {
+            "name_icon": "question",
+            "code_color": "f128"
+        },
+        {
+            "name_icon": "question-circle",
+            "code_color": "f059"
+        },
+        {
+            "name_icon": "quidditch",
+            "code_color": "f458"
+        },
+        {
+            "name_icon": "quote-left",
+            "code_color": "f10d"
+        },
+        {
+            "name_icon": "quote-right",
+            "code_color": "f10e"
+        },
+        {
+            "name_icon": "quran",
+            "code_color": "f687"
+        },
+        {
+            "name_icon": "radiation",
+            "code_color": "f7b9"
+        },
+        {
+            "name_icon": "radiation-alt",
+            "code_color": "f7ba"
+        },
+        {
+            "name_icon": "rainbow",
+            "code_color": "f75b"
+        },
+        {
+            "name_icon": "random",
+            "code_color": "f074"
+        },
+        {
+            "name_icon": "receipt",
+            "code_color": "f543"
+        },
+        {
+            "name_icon": "record-vinyl",
+            "code_color": "f8d9"
+        },
+        {
+            "name_icon": "recycle",
+            "code_color": "f1b8"
+        },
+        {
+            "name_icon": "redo",
+            "code_color": "f01e"
+        },
+        {
+            "name_icon": "redo-alt",
+            "code_color": "f2f9"
+        },
+        {
+            "name_icon": "registered",
+            "code_color": "f25d"
+        },
+        {
+            "name_icon": "remove-format",
+            "code_color": "f87d"
+        },
+        {
+            "name_icon": "reply",
+            "code_color": "f3e5"
+        },
+        {
+            "name_icon": "reply-all",
+            "code_color": "f122"
+        },
+        {
+            "name_icon": "republican",
+            "code_color": "f75e"
+        },
+        {
+            "name_icon": "restroom",
+            "code_color": "f7bd"
+        },
+        {
+            "name_icon": "retweet",
+            "code_color": "f079"
+        },
+        {
+            "name_icon": "ribbon",
+            "code_color": "f4d6"
+        },
+        {
+            "name_icon": "ring",
+            "code_color": "f70b"
+        },
+        {
+            "name_icon": "road",
+            "code_color": "f018"
+        },
+        {
+            "name_icon": "robot",
+            "code_color": "f544"
+        },
+        {
+            "name_icon": "rocket",
+            "code_color": "f135"
+        },
+        {
+            "name_icon": "route",
+            "code_color": "f4d7"
+        },
+        {
+            "name_icon": "rss",
+            "code_color": "f09e"
+        },
+        {
+            "name_icon": "rss-square",
+            "code_color": "f143"
+        },
+        {
+            "name_icon": "ruble-sign",
+            "code_color": "f158"
+        },
+        {
+            "name_icon": "ruler",
+            "code_color": "f545"
+        },
+        {
+            "name_icon": "ruler-combined",
+            "code_color": "f546"
+        },
+        {
+            "name_icon": "ruler-horizontal",
+            "code_color": "f547"
+        },
+        {
+            "name_icon": "ruler-vertical",
+            "code_color": "f548"
+        },
+        {
+            "name_icon": "running",
+            "code_color": "f70c"
+        },
+        {
+            "name_icon": "rupee-sign",
+            "code_color": "f156"
+        },
+        {
+            "name_icon": "sad-cry",
+            "code_color": "f5b3"
+        },
+        {
+            "name_icon": "sad-tear",
+            "code_color": "f5b4"
+        },
+        {
+            "name_icon": "satellite",
+            "code_color": "f7bf"
+        },
+        {
+            "name_icon": "satellite-dish",
+            "code_color": "f7c0"
+        },
+        {
+            "name_icon": "save",
+            "code_color": "f0c7"
+        },
+        {
+            "name_icon": "school",
+            "code_color": "f549"
+        },
+        {
+            "name_icon": "screwdriver",
+            "code_color": "f54a"
+        },
+        {
+            "name_icon": "scroll",
+            "code_color": "f70e"
+        },
+        {
+            "name_icon": "sd-card",
+            "code_color": "f7c2"
+        },
+        {
+            "name_icon": "search",
+            "code_color": "f002"
+        },
+        {
+            "name_icon": "search-dollar",
+            "code_color": "f688"
+        },
+        {
+            "name_icon": "search-location",
+            "code_color": "f689"
+        },
+        {
+            "name_icon": "search-minus",
+            "code_color": "f010"
+        },
+        {
+            "name_icon": "search-plus",
+            "code_color": "f00e"
+        },
+        {
+            "name_icon": "seedling",
+            "code_color": "f4d8"
+        },
+        {
+            "name_icon": "server",
+            "code_color": "f233"
+        },
+        {
+            "name_icon": "shapes",
+            "code_color": "f61f"
+        },
+        {
+            "name_icon": "share",
+            "code_color": "f064"
+        },
+        {
+            "name_icon": "share-alt",
+            "code_color": "f1e0"
+        },
+        {
+            "name_icon": "share-alt-square",
+            "code_color": "f1e1"
+        },
+        {
+            "name_icon": "share-square",
+            "code_color": "f14d"
+        },
+        {
+            "name_icon": "shekel-sign",
+            "code_color": "f20b"
+        },
+        {
+            "name_icon": "shield-alt",
+            "code_color": "f3ed"
+        },
+        {
+            "name_icon": "shield-virus",
+            "code_color": "e06c"
+        },
+        {
+            "name_icon": "ship",
+            "code_color": "f21a"
+        },
+        {
+            "name_icon": "shipping-fast",
+            "code_color": "f48b"
+        },
+        {
+            "name_icon": "shoe-prints",
+            "code_color": "f54b"
+        },
+        {
+            "name_icon": "shopping-bag",
+            "code_color": "f290"
+        },
+        {
+            "name_icon": "shopping-basket",
+            "code_color": "f291"
+        },
+        {
+            "name_icon": "shopping-cart",
+            "code_color": "f07a"
+        },
+        {
+            "name_icon": "shower",
+            "code_color": "f2cc"
+        },
+        {
+            "name_icon": "shuttle-van",
+            "code_color": "f5b6"
+        },
+        {
+            "name_icon": "sign",
+            "code_color": "f4d9"
+        },
+        {
+            "name_icon": "sign-in-alt",
+            "code_color": "f2f6"
+        },
+        {
+            "name_icon": "sign-language",
+            "code_color": "f2a7"
+        },
+        {
+            "name_icon": "sign-out-alt",
+            "code_color": "f2f5"
+        },
+        {
+            "name_icon": "signal",
+            "code_color": "f012"
+        },
+        {
+            "name_icon": "signature",
+            "code_color": "f5b7"
+        },
+        {
+            "name_icon": "sim-card",
+            "code_color": "f7c4"
+        },
+        {
+            "name_icon": "sink",
+            "code_color": "e06d"
+        },
+        {
+            "name_icon": "sitemap",
+            "code_color": "f0e8"
+        },
+        {
+            "name_icon": "skating",
+            "code_color": "f7c5"
+        },
+        {
+            "name_icon": "skiing",
+            "code_color": "f7c9"
+        },
+        {
+            "name_icon": "skiing-nordic",
+            "code_color": "f7ca"
+        },
+        {
+            "name_icon": "skull",
+            "code_color": "f54c"
+        },
+        {
+            "name_icon": "skull-crossbones",
+            "code_color": "f714"
+        },
+        {
+            "name_icon": "slash",
+            "code_color": "f715"
+        },
+        {
+            "name_icon": "sleigh",
+            "code_color": "f7cc"
+        },
+        {
+            "name_icon": "sliders-h",
+            "code_color": "f1de"
+        },
+        {
+            "name_icon": "smile",
+            "code_color": "f118"
+        },
+        {
+            "name_icon": "smile-beam",
+            "code_color": "f5b8"
+        },
+        {
+            "name_icon": "smile-wink",
+            "code_color": "f4da"
+        },
+        {
+            "name_icon": "smog",
+            "code_color": "f75f"
+        },
+        {
+            "name_icon": "smoking",
+            "code_color": "f48d"
+        },
+        {
+            "name_icon": "smoking-ban",
+            "code_color": "f54d"
+        },
+        {
+            "name_icon": "sms",
+            "code_color": "f7cd"
+        },
+        {
+            "name_icon": "snowboarding",
+            "code_color": "f7ce"
+        },
+        {
+            "name_icon": "snowflake",
+            "code_color": "f2dc"
+        },
+        {
+            "name_icon": "snowman",
+            "code_color": "f7d0"
+        },
+        {
+            "name_icon": "snowplow",
+            "code_color": "f7d2"
+        },
+        {
+            "name_icon": "soap",
+            "code_color": "e06e"
+        },
+        {
+            "name_icon": "socks",
+            "code_color": "f696"
+        },
+        {
+            "name_icon": "solar-panel",
+            "code_color": "f5ba"
+        },
+        {
+            "name_icon": "sort",
+            "code_color": "f0dc"
+        },
+        {
+            "name_icon": "sort-alpha-down",
+            "code_color": "f15d"
+        },
+        {
+            "name_icon": "sort-alpha-down-alt",
+            "code_color": "f881"
+        },
+        {
+            "name_icon": "sort-alpha-up",
+            "code_color": "f15e"
+        },
+        {
+            "name_icon": "sort-alpha-up-alt",
+            "code_color": "f882"
+        },
+        {
+            "name_icon": "sort-amount-down",
+            "code_color": "f160"
+        },
+        {
+            "name_icon": "sort-amount-down-alt",
+            "code_color": "f884"
+        },
+        {
+            "name_icon": "sort-amount-up",
+            "code_color": "f161"
+        },
+        {
+            "name_icon": "sort-amount-up-alt",
+            "code_color": "f885"
+        },
+        {
+            "name_icon": "sort-down",
+            "code_color": "f0dd"
+        },
+        {
+            "name_icon": "sort-numeric-down",
+            "code_color": "f162"
+        },
+        {
+            "name_icon": "sort-numeric-down-alt",
+            "code_color": "f886"
+        },
+        {
+            "name_icon": "sort-numeric-up",
+            "code_color": "f163"
+        },
+        {
+            "name_icon": "sort-numeric-up-alt",
+            "code_color": "f887"
+        },
+        {
+            "name_icon": "sort-up",
+            "code_color": "f0de"
+        },
+        {
+            "name_icon": "spa",
+            "code_color": "f5bb"
+        },
+        {
+            "name_icon": "space-shuttle",
+            "code_color": "f197"
+        },
+        {
+            "name_icon": "spell-check",
+            "code_color": "f891"
+        },
+        {
+            "name_icon": "spider",
+            "code_color": "f717"
+        },
+        {
+            "name_icon": "spinner",
+            "code_color": "f110"
+        },
+        {
+            "name_icon": "splotch",
+            "code_color": "f5bc"
+        },
+        {
+            "name_icon": "spray-can",
+            "code_color": "f5bd"
+        },
+        {
+            "name_icon": "square",
+            "code_color": "f0c8"
+        },
+        {
+            "name_icon": "square-full",
+            "code_color": "f45c"
+        },
+        {
+            "name_icon": "square-root-alt",
+            "code_color": "f698"
+        },
+        {
+            "name_icon": "stamp",
+            "code_color": "f5bf"
+        },
+        {
+            "name_icon": "star",
+            "code_color": "f005"
+        },
+        {
+            "name_icon": "star-and-crescent",
+            "code_color": "f699"
+        },
+        {
+            "name_icon": "star-half",
+            "code_color": "f089"
+        },
+        {
+            "name_icon": "star-half-alt",
+            "code_color": "f5c0"
+        },
+        {
+            "name_icon": "star-of-david",
+            "code_color": "f69a"
+        },
+        {
+            "name_icon": "star-of-life",
+            "code_color": "f621"
+        },
+        {
+            "name_icon": "step-backward",
+            "code_color": "f048"
+        },
+        {
+            "name_icon": "step-forward",
+            "code_color": "f051"
+        },
+        {
+            "name_icon": "stethoscope",
+            "code_color": "f0f1"
+        },
+        {
+            "name_icon": "sticky-note",
+            "code_color": "f249"
+        },
+        {
+            "name_icon": "stop",
+            "code_color": "f04d"
+        },
+        {
+            "name_icon": "stop-circle",
+            "code_color": "f28d"
+        },
+        {
+            "name_icon": "stopwatch",
+            "code_color": "f2f2"
+        },
+        {
+            "name_icon": "stopwatch-20",
+            "code_color": "e06f"
+        },
+        {
+            "name_icon": "store",
+            "code_color": "f54e"
+        },
+        {
+            "name_icon": "store-alt",
+            "code_color": "f54f"
+        },
+        {
+            "name_icon": "store-alt-slash",
+            "code_color": "e070"
+        },
+        {
+            "name_icon": "store-slash",
+            "code_color": "e071"
+        },
+        {
+            "name_icon": "stream",
+            "code_color": "f550"
+        },
+        {
+            "name_icon": "street-view",
+            "code_color": "f21d"
+        },
+        {
+            "name_icon": "strikethrough",
+            "code_color": "f0cc"
+        },
+        {
+            "name_icon": "stroopwafel",
+            "code_color": "f551"
+        },
+        {
+            "name_icon": "subscript",
+            "code_color": "f12c"
+        },
+        {
+            "name_icon": "subway",
+            "code_color": "f239"
+        },
+        {
+            "name_icon": "suitcase",
+            "code_color": "f0f2"
+        },
+        {
+            "name_icon": "suitcase-rolling",
+            "code_color": "f5c1"
+        },
+        {
+            "name_icon": "sun",
+            "code_color": "f185"
+        },
+        {
+            "name_icon": "superscript",
+            "code_color": "f12b"
+        },
+        {
+            "name_icon": "surprise",
+            "code_color": "f5c2"
+        },
+        {
+            "name_icon": "swatchbook",
+            "code_color": "f5c3"
+        },
+        {
+            "name_icon": "swimmer",
+            "code_color": "f5c4"
+        },
+        {
+            "name_icon": "swimming-pool",
+            "code_color": "f5c5"
+        },
+        {
+            "name_icon": "synagogue",
+            "code_color": "f69b"
+        },
+        {
+            "name_icon": "sync",
+            "code_color": "f021"
+        },
+        {
+            "name_icon": "sync-alt",
+            "code_color": "f2f1"
+        },
+        {
+            "name_icon": "syringe",
+            "code_color": "f48e"
+        },
+        {
+            "name_icon": "table",
+            "code_color": "f0ce"
+        },
+        {
+            "name_icon": "table-tennis",
+            "code_color": "f45d"
+        },
+        {
+            "name_icon": "tablet",
+            "code_color": "f10a"
+        },
+        {
+            "name_icon": "tablet-alt",
+            "code_color": "f3fa"
+        },
+        {
+            "name_icon": "tablets",
+            "code_color": "f490"
+        },
+        {
+            "name_icon": "tachometer-alt",
+            "code_color": "f3fd"
+        },
+        {
+            "name_icon": "tag",
+            "code_color": "f02b"
+        },
+        {
+            "name_icon": "tags",
+            "code_color": "f02c"
+        },
+        {
+            "name_icon": "tape",
+            "code_color": "f4db"
+        },
+        {
+            "name_icon": "tasks",
+            "code_color": "f0ae"
+        },
+        {
+            "name_icon": "taxi",
+            "code_color": "f1ba"
+        },
+        {
+            "name_icon": "teeth",
+            "code_color": "f62e"
+        },
+        {
+            "name_icon": "teeth-open",
+            "code_color": "f62f"
+        },
+        {
+            "name_icon": "temperature-high",
+            "code_color": "f769"
+        },
+        {
+            "name_icon": "temperature-low",
+            "code_color": "f76b"
+        },
+        {
+            "name_icon": "tenge",
+            "code_color": "f7d7"
+        },
+        {
+            "name_icon": "terminal",
+            "code_color": "f120"
+        },
+        {
+            "name_icon": "text-height",
+            "code_color": "f034"
+        },
+        {
+            "name_icon": "text-width",
+            "code_color": "f035"
+        },
+        {
+            "name_icon": "th",
+            "code_color": "f00a"
+        },
+        {
+            "name_icon": "th-large",
+            "code_color": "f009"
+        },
+        {
+            "name_icon": "th-list",
+            "code_color": "f00b"
+        },
+        {
+            "name_icon": "theater-masks",
+            "code_color": "f630"
+        },
+        {
+            "name_icon": "thermometer",
+            "code_color": "f491"
+        },
+        {
+            "name_icon": "thermometer-empty",
+            "code_color": "f2cb"
+        },
+        {
+            "name_icon": "thermometer-full",
+            "code_color": "f2c7"
+        },
+        {
+            "name_icon": "thermometer-half",
+            "code_color": "f2c9"
+        },
+        {
+            "name_icon": "thermometer-quarter",
+            "code_color": "f2ca"
+        },
+        {
+            "name_icon": "thermometer-three-quarters",
+            "code_color": "f2c8"
+        },
+        {
+            "name_icon": "thumbs-down",
+            "code_color": "f165"
+        },
+        {
+            "name_icon": "thumbs-up",
+            "code_color": "f164"
+        },
+        {
+            "name_icon": "thumbtack",
+            "code_color": "f08d"
+        },
+        {
+            "name_icon": "ticket-alt",
+            "code_color": "f3ff"
+        },
+        {
+            "name_icon": "times",
+            "code_color": "f00d"
+        },
+        {
+            "name_icon": "times-circle",
+            "code_color": "f057"
+        },
+        {
+            "name_icon": "tint",
+            "code_color": "f043"
+        },
+        {
+            "name_icon": "tint-slash",
+            "code_color": "f5c7"
+        },
+        {
+            "name_icon": "tired",
+            "code_color": "f5c8"
+        },
+        {
+            "name_icon": "toggle-off",
+            "code_color": "f204"
+        },
+        {
+            "name_icon": "toggle-on",
+            "code_color": "f205"
+        },
+        {
+            "name_icon": "toilet",
+            "code_color": "f7d8"
+        },
+        {
+            "name_icon": "toilet-paper",
+            "code_color": "f71e"
+        },
+        {
+            "name_icon": "toilet-paper-slash",
+            "code_color": "e072"
+        },
+        {
+            "name_icon": "toolbox",
+            "code_color": "f552"
+        },
+        {
+            "name_icon": "tools",
+            "code_color": "f7d9"
+        },
+        {
+            "name_icon": "tooth",
+            "code_color": "f5c9"
+        },
+        {
+            "name_icon": "torah",
+            "code_color": "f6a0"
+        },
+        {
+            "name_icon": "torii-gate",
+            "code_color": "f6a1"
+        },
+        {
+            "name_icon": "tractor",
+            "code_color": "f722"
+        },
+        {
+            "name_icon": "trademark",
+            "code_color": "f25c"
+        },
+        {
+            "name_icon": "traffic-light",
+            "code_color": "f637"
+        },
+        {
+            "name_icon": "trailer",
+            "code_color": "e041"
+        },
+        {
+            "name_icon": "train",
+            "code_color": "f238"
+        },
+        {
+            "name_icon": "tram",
+            "code_color": "f7da"
+        },
+        {
+            "name_icon": "transgender",
+            "code_color": "f224"
+        },
+        {
+            "name_icon": "transgender-alt",
+            "code_color": "f225"
+        },
+        {
+            "name_icon": "trash",
+            "code_color": "f1f8"
+        },
+        {
+            "name_icon": "trash-alt",
+            "code_color": "f2ed"
+        },
+        {
+            "name_icon": "trash-restore",
+            "code_color": "f829"
+        },
+        {
+            "name_icon": "trash-restore-alt",
+            "code_color": "f82a"
+        },
+        {
+            "name_icon": "tree",
+            "code_color": "f1bb"
+        },
+        {
+            "name_icon": "trophy",
+            "code_color": "f091"
+        },
+        {
+            "name_icon": "truck",
+            "code_color": "f0d1"
+        },
+        {
+            "name_icon": "truck-loading",
+            "code_color": "f4de"
+        },
+        {
+            "name_icon": "truck-monster",
+            "code_color": "f63b"
+        },
+        {
+            "name_icon": "truck-moving",
+            "code_color": "f4df"
+        },
+        {
+            "name_icon": "truck-pickup",
+            "code_color": "f63c"
+        },
+        {
+            "name_icon": "tshirt",
+            "code_color": "f553"
+        },
+        {
+            "name_icon": "tty",
+            "code_color": "f1e4"
+        },
+        {
+            "name_icon": "tv",
+            "code_color": "f26c"
+        },
+        {
+            "name_icon": "umbrella",
+            "code_color": "f0e9"
+        },
+        {
+            "name_icon": "umbrella-beach",
+            "code_color": "f5ca"
+        },
+        {
+            "name_icon": "underline",
+            "code_color": "f0cd"
+        },
+        {
+            "name_icon": "undo",
+            "code_color": "f0e2"
+        },
+        {
+            "name_icon": "undo-alt",
+            "code_color": "f2ea"
+        },
+        {
+            "name_icon": "universal-access",
+            "code_color": "f29a"
+        },
+        {
+            "name_icon": "university",
+            "code_color": "f19c"
+        },
+        {
+            "name_icon": "unlink",
+            "code_color": "f127"
+        },
+        {
+            "name_icon": "unlock",
+            "code_color": "f09c"
+        },
+        {
+            "name_icon": "unlock-alt",
+            "code_color": "f13e"
+        },
+        {
+            "name_icon": "upload",
+            "code_color": "f093"
+        },
+        {
+            "name_icon": "user",
+            "code_color": "f007"
+        },
+        {
+            "name_icon": "user-alt",
+            "code_color": "f406"
+        },
+        {
+            "name_icon": "user-alt-slash",
+            "code_color": "f4fa"
+        },
+        {
+            "name_icon": "user-astronaut",
+            "code_color": "f4fb"
+        },
+        {
+            "name_icon": "user-check",
+            "code_color": "f4fc"
+        },
+        {
+            "name_icon": "user-circle",
+            "code_color": "f2bd"
+        },
+        {
+            "name_icon": "user-clock",
+            "code_color": "f4fd"
+        },
+        {
+            "name_icon": "user-cog",
+            "code_color": "f4fe"
+        },
+        {
+            "name_icon": "user-edit",
+            "code_color": "f4ff"
+        },
+        {
+            "name_icon": "user-friends",
+            "code_color": "f500"
+        },
+        {
+            "name_icon": "user-graduate",
+            "code_color": "f501"
+        },
+        {
+            "name_icon": "user-injured",
+            "code_color": "f728"
+        },
+        {
+            "name_icon": "user-lock",
+            "code_color": "f502"
+        },
+        {
+            "name_icon": "user-md",
+            "code_color": "f0f0"
+        },
+        {
+            "name_icon": "user-minus",
+            "code_color": "f503"
+        },
+        {
+            "name_icon": "user-ninja",
+            "code_color": "f504"
+        },
+        {
+            "name_icon": "user-nurse",
+            "code_color": "f82f"
+        },
+        {
+            "name_icon": "user-plus",
+            "code_color": "f234"
+        },
+        {
+            "name_icon": "user-secret",
+            "code_color": "f21b"
+        },
+        {
+            "name_icon": "user-shield",
+            "code_color": "f505"
+        },
+        {
+            "name_icon": "user-slash",
+            "code_color": "f506"
+        },
+        {
+            "name_icon": "user-tag",
+            "code_color": "f507"
+        },
+        {
+            "name_icon": "user-tie",
+            "code_color": "f508"
+        },
+        {
+            "name_icon": "user-times",
+            "code_color": "f235"
+        },
+        {
+            "name_icon": "users",
+            "code_color": "f0c0"
+        },
+        {
+            "name_icon": "users-cog",
+            "code_color": "f509"
+        },
+        {
+            "name_icon": "users-slash",
+            "code_color": "e073"
+        },
+        {
+            "name_icon": "utensil-spoon",
+            "code_color": "f2e5"
+        },
+        {
+            "name_icon": "utensils",
+            "code_color": "f2e7"
+        },
+        {
+            "name_icon": "vector-square",
+            "code_color": "f5cb"
+        },
+        {
+            "name_icon": "venus",
+            "code_color": "f221"
+        },
+        {
+            "name_icon": "venus-double",
+            "code_color": "f226"
+        },
+        {
+            "name_icon": "venus-mars",
+            "code_color": "f228"
+        },
+        {
+            "name_icon": "vial",
+            "code_color": "f492"
+        },
+        {
+            "name_icon": "vials",
+            "code_color": "f493"
+        },
+        {
+            "name_icon": "video",
+            "code_color": "f03d"
+        },
+        {
+            "name_icon": "video-slash",
+            "code_color": "f4e2"
+        },
+        {
+            "name_icon": "vihara",
+            "code_color": "f6a7"
+        },
+        {
+            "name_icon": "virus",
+            "code_color": "e074"
+        },
+        {
+            "name_icon": "virus-slash",
+            "code_color": "e075"
+        },
+        {
+            "name_icon": "viruses",
+            "code_color": "e076"
+        },
+        {
+            "name_icon": "voicemail",
+            "code_color": "f897"
+        },
+        {
+            "name_icon": "volleyball-ball",
+            "code_color": "f45f"
+        },
+        {
+            "name_icon": "volume-down",
+            "code_color": "f027"
+        },
+        {
+            "name_icon": "volume-mute",
+            "code_color": "f6a9"
+        },
+        {
+            "name_icon": "volume-off",
+            "code_color": "f026"
+        },
+        {
+            "name_icon": "volume-up",
+            "code_color": "f028"
+        },
+        {
+            "name_icon": "vote-yea",
+            "code_color": "f772"
+        },
+        {
+            "name_icon": "vr-cardboard",
+            "code_color": "f729"
+        },
+        {
+            "name_icon": "walking",
+            "code_color": "f554"
+        },
+        {
+            "name_icon": "wallet",
+            "code_color": "f555"
+        },
+        {
+            "name_icon": "warehouse",
+            "code_color": "f494"
+        },
+        {
+            "name_icon": "water",
+            "code_color": "f773"
+        },
+        {
+            "name_icon": "wave-square",
+            "code_color": "f83e"
+        },
+        {
+            "name_icon": "weight",
+            "code_color": "f496"
+        },
+        {
+            "name_icon": "weight-hanging",
+            "code_color": "f5cd"
+        },
+        {
+            "name_icon": "wheelchair",
+            "code_color": "f193"
+        },
+        {
+            "name_icon": "wifi",
+            "code_color": "f1eb"
+        },
+        {
+            "name_icon": "wind",
+            "code_color": "f72e"
+        },
+        {
+            "name_icon": "window-close",
+            "code_color": "f410"
+        },
+        {
+            "name_icon": "window-maximize",
+            "code_color": "f2d0"
+        },
+        {
+            "name_icon": "window-minimize",
+            "code_color": "f2d1"
+        },
+        {
+            "name_icon": "window-restore",
+            "code_color": "f2d2"
+        },
+        {
+            "name_icon": "wine-bottle",
+            "code_color": "f72f"
+        },
+        {
+            "name_icon": "wine-glass",
+            "code_color": "f4e3"
+        },
+        {
+            "name_icon": "wine-glass-alt",
+            "code_color": "f5ce"
+        },
+        {
+            "name_icon": "won-sign",
+            "code_color": "f159"
+        },
+        {
+            "name_icon": "wrench",
+            "code_color": "f0ad"
+        },
+        {
+            "name_icon": "x-ray",
+            "code_color": "f497"
+        },
+        {
+            "name_icon": "yen-sign",
+            "code_color": "f157"
+        },
+        {
+            "name_icon": "yin-yang",
+            "code_color": "f6ad"
+        }
+    ],
+    "icon_regular": [
+        {
+            "name_icon": "address-book",
+            "code_color": "f2b9"
+        },
+        {
+            "name_icon": "address-card",
+            "code_color": "f2bb"
+        },
+        {
+            "name_icon": "angry",
+            "code_color": "f556"
+        },
+        {
+            "name_icon": "arrow-alt-circle-down",
+            "code_color": "f358"
+        },
+        {
+            "name_icon": "arrow-alt-circle-left",
+            "code_color": "f359"
+        },
+        {
+            "name_icon": "arrow-alt-circle-right",
+            "code_color": "f35a"
+        },
+        {
+            "name_icon": "arrow-alt-circle-up",
+            "code_color": "f35b"
+        },
+        {
+            "name_icon": "bell",
+            "code_color": "f0f3"
+        },
+        {
+            "name_icon": "bell-slash",
+            "code_color": "f1f6"
+        },
+        {
+            "name_icon": "bookmark",
+            "code_color": "f02e"
+        },
+        {
+            "name_icon": "building",
+            "code_color": "f1ad"
+        },
+        {
+            "name_icon": "calendar",
+            "code_color": "f133"
+        },
+        {
+            "name_icon": "calendar-alt",
+            "code_color": "f073"
+        },
+        {
+            "name_icon": "calendar-check",
+            "code_color": "f274"
+        },
+        {
+            "name_icon": "calendar-minus",
+            "code_color": "f272"
+        },
+        {
+            "name_icon": "calendar-plus",
+            "code_color": "f271"
+        },
+        {
+            "name_icon": "calendar-times",
+            "code_color": "f273"
+        },
+        {
+            "name_icon": "caret-square-down",
+            "code_color": "f150"
+        },
+        {
+            "name_icon": "caret-square-left",
+            "code_color": "f191"
+        },
+        {
+            "name_icon": "caret-square-right",
+            "code_color": "f152"
+        },
+        {
+            "name_icon": "caret-square-up",
+            "code_color": "f151"
+        },
+        {
+            "name_icon": "chart-bar",
+            "code_color": "f080"
+        },
+        {
+            "name_icon": "check-circle",
+            "code_color": "f058"
+        },
+        {
+            "name_icon": "check-square",
+            "code_color": "f14a"
+        },
+        {
+            "name_icon": "circle",
+            "code_color": "f111"
+        },
+        {
+            "name_icon": "clipboard",
+            "code_color": "f328"
+        },
+        {
+            "name_icon": "clock",
+            "code_color": "f017"
+        },
+        {
+            "name_icon": "clone",
+            "code_color": "f24d"
+        },
+        {
+            "name_icon": "closed-captioning",
+            "code_color": "f20a"
+        },
+        {
+            "name_icon": "comment",
+            "code_color": "f075"
+        },
+        {
+            "name_icon": "comment-alt",
+            "code_color": "f27a"
+        },
+        {
+            "name_icon": "comment-dots",
+            "code_color": "f4ad"
+        },
+        {
+            "name_icon": "comments",
+            "code_color": "f086"
+        },
+        {
+            "name_icon": "compass",
+            "code_color": "f14e"
+        },
+        {
+            "name_icon": "copy",
+            "code_color": "f0c5"
+        },
+        {
+            "name_icon": "copyright",
+            "code_color": "f1f9"
+        },
+        {
+            "name_icon": "credit-card",
+            "code_color": "f09d"
+        },
+        {
+            "name_icon": "dizzy",
+            "code_color": "f567"
+        },
+        {
+            "name_icon": "dot-circle",
+            "code_color": "f192"
+        },
+        {
+            "name_icon": "edit",
+            "code_color": "f044"
+        },
+        {
+            "name_icon": "envelope",
+            "code_color": "f0e0"
+        },
+        {
+            "name_icon": "envelope-open",
+            "code_color": "f2b6"
+        },
+        {
+            "name_icon": "eye",
+            "code_color": "f06e"
+        },
+        {
+            "name_icon": "eye-slash",
+            "code_color": "f070"
+        },
+        {
+            "name_icon": "file",
+            "code_color": "f15b"
+        },
+        {
+            "name_icon": "file-alt",
+            "code_color": "f15c"
+        },
+        {
+            "name_icon": "file-archive",
+            "code_color": "f1c6"
+        },
+        {
+            "name_icon": "file-audio",
+            "code_color": "f1c7"
+        },
+        {
+            "name_icon": "file-code",
+            "code_color": "f1c9"
+        },
+        {
+            "name_icon": "file-excel",
+            "code_color": "f1c3"
+        },
+        {
+            "name_icon": "file-image",
+            "code_color": "f1c5"
+        },
+        {
+            "name_icon": "file-pdf",
+            "code_color": "f1c1"
+        },
+        {
+            "name_icon": "file-powerpoint",
+            "code_color": "f1c4"
+        },
+        {
+            "name_icon": "file-video",
+            "code_color": "f1c8"
+        },
+        {
+            "name_icon": "file-word",
+            "code_color": "f1c2"
+        },
+        {
+            "name_icon": "flag",
+            "code_color": "f024"
+        },
+        {
+            "name_icon": "flushed",
+            "code_color": "f579"
+        },
+        {
+            "name_icon": "folder",
+            "code_color": "f07b"
+        },
+        {
+            "name_icon": "folder-open",
+            "code_color": "f07c"
+        },
+        {
+            "name_icon": "font-awesome-logo-full",
+            "code_color": "f4e6"
+        },
+        {
+            "name_icon": "frown",
+            "code_color": "f119"
+        },
+        {
+            "name_icon": "frown-open",
+            "code_color": "f57a"
+        },
+        {
+            "name_icon": "futbol",
+            "code_color": "f1e3"
+        },
+        {
+            "name_icon": "gem",
+            "code_color": "f3a5"
+        },
+        {
+            "name_icon": "grimace",
+            "code_color": "f57f"
+        },
+        {
+            "name_icon": "grin",
+            "code_color": "f580"
+        },
+        {
+            "name_icon": "grin-alt",
+            "code_color": "f581"
+        },
+        {
+            "name_icon": "grin-beam",
+            "code_color": "f582"
+        },
+        {
+            "name_icon": "grin-beam-sweat",
+            "code_color": "f583"
+        },
+        {
+            "name_icon": "grin-hearts",
+            "code_color": "f584"
+        },
+        {
+            "name_icon": "grin-squint",
+            "code_color": "f585"
+        },
+        {
+            "name_icon": "grin-squint-tears",
+            "code_color": "f586"
+        },
+        {
+            "name_icon": "grin-stars",
+            "code_color": "f587"
+        },
+        {
+            "name_icon": "grin-tears",
+            "code_color": "f588"
+        },
+        {
+            "name_icon": "grin-tongue",
+            "code_color": "f589"
+        },
+        {
+            "name_icon": "grin-tongue-squint",
+            "code_color": "f58a"
+        },
+        {
+            "name_icon": "grin-tongue-wink",
+            "code_color": "f58b"
+        },
+        {
+            "name_icon": "grin-wink",
+            "code_color": "f58c"
+        },
+        {
+            "name_icon": "hand-lizard",
+            "code_color": "f258"
+        },
+        {
+            "name_icon": "hand-paper",
+            "code_color": "f256"
+        },
+        {
+            "name_icon": "hand-peace",
+            "code_color": "f25b"
+        },
+        {
+            "name_icon": "hand-point-down",
+            "code_color": "f0a7"
+        },
+        {
+            "name_icon": "hand-point-left",
+            "code_color": "f0a5"
+        },
+        {
+            "name_icon": "hand-point-right",
+            "code_color": "f0a4"
+        },
+        {
+            "name_icon": "hand-point-up",
+            "code_color": "f0a6"
+        },
+        {
+            "name_icon": "hand-pointer",
+            "code_color": "f25a"
+        },
+        {
+            "name_icon": "hand-rock",
+            "code_color": "f255"
+        },
+        {
+            "name_icon": "hand-scissors",
+            "code_color": "f257"
+        },
+        {
+            "name_icon": "hand-spock",
+            "code_color": "f259"
+        },
+        {
+            "name_icon": "handshake",
+            "code_color": "f2b5"
+        },
+        {
+            "name_icon": "hdd",
+            "code_color": "f0a0"
+        },
+        {
+            "name_icon": "heart",
+            "code_color": "f004"
+        },
+        {
+            "name_icon": "hospital",
+            "code_color": "f0f8"
+        },
+        {
+            "name_icon": "hourglass",
+            "code_color": "f254"
+        },
+        {
+            "name_icon": "id-badge",
+            "code_color": "f2c1"
+        },
+        {
+            "name_icon": "id-card",
+            "code_color": "f2c2"
+        },
+        {
+            "name_icon": "image",
+            "code_color": "f03e"
+        },
+        {
+            "name_icon": "images",
+            "code_color": "f302"
+        },
+        {
+            "name_icon": "keyboard",
+            "code_color": "f11c"
+        },
+        {
+            "name_icon": "kiss",
+            "code_color": "f596"
+        },
+        {
+            "name_icon": "kiss-beam",
+            "code_color": "f597"
+        },
+        {
+            "name_icon": "kiss-wink-heart",
+            "code_color": "f598"
+        },
+        {
+            "name_icon": "laugh",
+            "code_color": "f599"
+        },
+        {
+            "name_icon": "laugh-beam",
+            "code_color": "f59a"
+        },
+        {
+            "name_icon": "laugh-squint",
+            "code_color": "f59b"
+        },
+        {
+            "name_icon": "laugh-wink",
+            "code_color": "f59c"
+        },
+        {
+            "name_icon": "lemon",
+            "code_color": "f094"
+        },
+        {
+            "name_icon": "life-ring",
+            "code_color": "f1cd"
+        },
+        {
+            "name_icon": "lightbulb",
+            "code_color": "f0eb"
+        },
+        {
+            "name_icon": "list-alt",
+            "code_color": "f022"
+        },
+        {
+            "name_icon": "map",
+            "code_color": "f279"
+        },
+        {
+            "name_icon": "meh",
+            "code_color": "f11a"
+        },
+        {
+            "name_icon": "meh-blank",
+            "code_color": "f5a4"
+        },
+        {
+            "name_icon": "meh-rolling-eyes",
+            "code_color": "f5a5"
+        },
+        {
+            "name_icon": "minus-square",
+            "code_color": "f146"
+        },
+        {
+            "name_icon": "money-bill-alt",
+            "code_color": "f3d1"
+        },
+        {
+            "name_icon": "moon",
+            "code_color": "f186"
+        },
+        {
+            "name_icon": "newspaper",
+            "code_color": "f1ea"
+        },
+        {
+            "name_icon": "object-group",
+            "code_color": "f247"
+        },
+        {
+            "name_icon": "object-ungroup",
+            "code_color": "f248"
+        },
+        {
+            "name_icon": "paper-plane",
+            "code_color": "f1d8"
+        },
+        {
+            "name_icon": "pause-circle",
+            "code_color": "f28b"
+        },
+        {
+            "name_icon": "play-circle",
+            "code_color": "f144"
+        },
+        {
+            "name_icon": "plus-square",
+            "code_color": "f0fe"
+        },
+        {
+            "name_icon": "question-circle",
+            "code_color": "f059"
+        },
+        {
+            "name_icon": "registered",
+            "code_color": "f25d"
+        },
+        {
+            "name_icon": "sad-cry",
+            "code_color": "f5b3"
+        },
+        {
+            "name_icon": "sad-tear",
+            "code_color": "f5b4"
+        },
+        {
+            "name_icon": "save",
+            "code_color": "f0c7"
+        },
+        {
+            "name_icon": "share-square",
+            "code_color": "f14d"
+        },
+        {
+            "name_icon": "smile",
+            "code_color": "f118"
+        },
+        {
+            "name_icon": "smile-beam",
+            "code_color": "f5b8"
+        },
+        {
+            "name_icon": "smile-wink",
+            "code_color": "f4da"
+        },
+        {
+            "name_icon": "snowflake",
+            "code_color": "f2dc"
+        },
+        {
+            "name_icon": "square",
+            "code_color": "f0c8"
+        },
+        {
+            "name_icon": "star",
+            "code_color": "f005"
+        },
+        {
+            "name_icon": "star-half",
+            "code_color": "f089"
+        },
+        {
+            "name_icon": "sticky-note",
+            "code_color": "f249"
+        },
+        {
+            "name_icon": "stop-circle",
+            "code_color": "f28d"
+        },
+        {
+            "name_icon": "sun",
+            "code_color": "f185"
+        },
+        {
+            "name_icon": "surprise",
+            "code_color": "f5c2"
+        },
+        {
+            "name_icon": "thumbs-down",
+            "code_color": "f165"
+        },
+        {
+            "name_icon": "thumbs-up",
+            "code_color": "f164"
+        },
+        {
+            "name_icon": "times-circle",
+            "code_color": "f057"
+        },
+        {
+            "name_icon": "tired",
+            "code_color": "f5c8"
+        },
+        {
+            "name_icon": "trash-alt",
+            "code_color": "f2ed"
+        },
+        {
+            "name_icon": "user",
+            "code_color": "f007"
+        },
+        {
+            "name_icon": "user-circle",
+            "code_color": "f2bd"
+        },
+        {
+            "name_icon": "window-close",
+            "code_color": "f410"
+        },
+        {
+            "name_icon": "window-maximize",
+            "code_color": "f2d0"
+        },
+        {
+            "name_icon": "window-minimize",
+            "code_color": "f2d1"
+        },
+        {
+            "name_icon": "window-restore",
+            "code_color": "f2d2"
+        }
+    ],
+    "icon_brands": [
+        {
+            "name_icon": "500px",
+            "code_color": "f26e"
+        },
+        {
+            "name_icon": "accessible-icon",
+            "code_color": "f368"
+        },
+        {
+            "name_icon": "accusoft",
+            "code_color": "f369"
+        },
+        {
+            "name_icon": "acquisitions-incorporated",
+            "code_color": "f6af"
+        },
+        {
+            "name_icon": "adn",
+            "code_color": "f170"
+        },
+        {
+            "name_icon": "adobe",
+            "code_color": "f778"
+        },
+        {
+            "name_icon": "adversal",
+            "code_color": "f36a"
+        },
+        {
+            "name_icon": "affiliatetheme",
+            "code_color": "f36b"
+        },
+        {
+            "name_icon": "airbnb",
+            "code_color": "f834"
+        },
+        {
+            "name_icon": "algolia",
+            "code_color": "f36c"
+        },
+        {
+            "name_icon": "alipay",
+            "code_color": "f642"
+        },
+        {
+            "name_icon": "amazon",
+            "code_color": "f270"
+        },
+        {
+            "name_icon": "amazon-pay",
+            "code_color": "f42c"
+        },
+        {
+            "name_icon": "amilia",
+            "code_color": "f36d"
+        },
+        {
+            "name_icon": "android",
+            "code_color": "f17b"
+        },
+        {
+            "name_icon": "angellist",
+            "code_color": "f209"
+        },
+        {
+            "name_icon": "angrycreative",
+            "code_color": "f36e"
+        },
+        {
+            "name_icon": "angular",
+            "code_color": "f420"
+        },
+        {
+            "name_icon": "app-store",
+            "code_color": "f36f"
+        },
+        {
+            "name_icon": "app-store-ios",
+            "code_color": "f370"
+        },
+        {
+            "name_icon": "apper",
+            "code_color": "f371"
+        },
+        {
+            "name_icon": "apple",
+            "code_color": "f179"
+        },
+        {
+            "name_icon": "apple-pay",
+            "code_color": "f415"
+        },
+        {
+            "name_icon": "artstation",
+            "code_color": "f77a"
+        },
+        {
+            "name_icon": "asymmetrik",
+            "code_color": "f372"
+        },
+        {
+            "name_icon": "atlassian",
+            "code_color": "f77b"
+        },
+        {
+            "name_icon": "audible",
+            "code_color": "f373"
+        },
+        {
+            "name_icon": "autoprefixer",
+            "code_color": "f41c"
+        },
+        {
+            "name_icon": "avianex",
+            "code_color": "f374"
+        },
+        {
+            "name_icon": "aviato",
+            "code_color": "f421"
+        },
+        {
+            "name_icon": "aws",
+            "code_color": "f375"
+        },
+        {
+            "name_icon": "bandcamp",
+            "code_color": "f2d5"
+        },
+        {
+            "name_icon": "battle-net",
+            "code_color": "f835"
+        },
+        {
+            "name_icon": "behance",
+            "code_color": "f1b4"
+        },
+        {
+            "name_icon": "behance-square",
+            "code_color": "f1b5"
+        },
+        {
+            "name_icon": "bimobject",
+            "code_color": "f378"
+        },
+        {
+            "name_icon": "bitbucket",
+            "code_color": "f171"
+        },
+        {
+            "name_icon": "bitcoin",
+            "code_color": "f379"
+        },
+        {
+            "name_icon": "bity",
+            "code_color": "f37a"
+        },
+        {
+            "name_icon": "black-tie",
+            "code_color": "f27e"
+        },
+        {
+            "name_icon": "blackberry",
+            "code_color": "f37b"
+        },
+        {
+            "name_icon": "blogger",
+            "code_color": "f37c"
+        },
+        {
+            "name_icon": "blogger-b",
+            "code_color": "f37d"
+        },
+        {
+            "name_icon": "bluetooth",
+            "code_color": "f293"
+        },
+        {
+            "name_icon": "bluetooth-b",
+            "code_color": "f294"
+        },
+        {
+            "name_icon": "bootstrap",
+            "code_color": "f836"
+        },
+        {
+            "name_icon": "btc",
+            "code_color": "f15a"
+        },
+        {
+            "name_icon": "buffer",
+            "code_color": "f837"
+        },
+        {
+            "name_icon": "buromobelexperte",
+            "code_color": "f37f"
+        },
+        {
+            "name_icon": "buy-n-large",
+            "code_color": "f8a6"
+        },
+        {
+            "name_icon": "buysellads",
+            "code_color": "f20d"
+        },
+        {
+            "name_icon": "canadian-maple-leaf",
+            "code_color": "f785"
+        },
+        {
+            "name_icon": "cc-amazon-pay",
+            "code_color": "f42d"
+        },
+        {
+            "name_icon": "cc-amex",
+            "code_color": "f1f3"
+        },
+        {
+            "name_icon": "cc-apple-pay",
+            "code_color": "f416"
+        },
+        {
+            "name_icon": "cc-diners-club",
+            "code_color": "f24c"
+        },
+        {
+            "name_icon": "cc-discover",
+            "code_color": "f1f2"
+        },
+        {
+            "name_icon": "cc-jcb",
+            "code_color": "f24b"
+        },
+        {
+            "name_icon": "cc-mastercard",
+            "code_color": "f1f1"
+        },
+        {
+            "name_icon": "cc-paypal",
+            "code_color": "f1f4"
+        },
+        {
+            "name_icon": "cc-stripe",
+            "code_color": "f1f5"
+        },
+        {
+            "name_icon": "cc-visa",
+            "code_color": "f1f0"
+        },
+        {
+            "name_icon": "centercode",
+            "code_color": "f380"
+        },
+        {
+            "name_icon": "centos",
+            "code_color": "f789"
+        },
+        {
+            "name_icon": "chrome",
+            "code_color": "f268"
+        },
+        {
+            "name_icon": "chromecast",
+            "code_color": "f838"
+        },
+        {
+            "name_icon": "cloudscale",
+            "code_color": "f383"
+        },
+        {
+            "name_icon": "cloudsmith",
+            "code_color": "f384"
+        },
+        {
+            "name_icon": "cloudversify",
+            "code_color": "f385"
+        },
+        {
+            "name_icon": "codepen",
+            "code_color": "f1cb"
+        },
+        {
+            "name_icon": "codiepie",
+            "code_color": "f284"
+        },
+        {
+            "name_icon": "confluence",
+            "code_color": "f78d"
+        },
+        {
+            "name_icon": "connectdevelop",
+            "code_color": "f20e"
+        },
+        {
+            "name_icon": "contao",
+            "code_color": "f26d"
+        },
+        {
+            "name_icon": "cotton-bureau",
+            "code_color": "f89e"
+        },
+        {
+            "name_icon": "cpanel",
+            "code_color": "f388"
+        },
+        {
+            "name_icon": "creative-commons",
+            "code_color": "f25e"
+        },
+        {
+            "name_icon": "creative-commons-by",
+            "code_color": "f4e7"
+        },
+        {
+            "name_icon": "creative-commons-nc",
+            "code_color": "f4e8"
+        },
+        {
+            "name_icon": "creative-commons-nc-eu",
+            "code_color": "f4e9"
+        },
+        {
+            "name_icon": "creative-commons-nc-jp",
+            "code_color": "f4ea"
+        },
+        {
+            "name_icon": "creative-commons-nd",
+            "code_color": "f4eb"
+        },
+        {
+            "name_icon": "creative-commons-pd",
+            "code_color": "f4ec"
+        },
+        {
+            "name_icon": "creative-commons-pd-alt",
+            "code_color": "f4ed"
+        },
+        {
+            "name_icon": "creative-commons-remix",
+            "code_color": "f4ee"
+        },
+        {
+            "name_icon": "creative-commons-sa",
+            "code_color": "f4ef"
+        },
+        {
+            "name_icon": "creative-commons-sampling",
+            "code_color": "f4f0"
+        },
+        {
+            "name_icon": "creative-commons-sampling-plus",
+            "code_color": "f4f1"
+        },
+        {
+            "name_icon": "creative-commons-share",
+            "code_color": "f4f2"
+        },
+        {
+            "name_icon": "creative-commons-zero",
+            "code_color": "f4f3"
+        },
+        {
+            "name_icon": "critical-role",
+            "code_color": "f6c9"
+        },
+        {
+            "name_icon": "css3",
+            "code_color": "f13c"
+        },
+        {
+            "name_icon": "css3-alt",
+            "code_color": "f38b"
+        },
+        {
+            "name_icon": "cuttlefish",
+            "code_color": "f38c"
+        },
+        {
+            "name_icon": "d-and-d",
+            "code_color": "f38d"
+        },
+        {
+            "name_icon": "d-and-d-beyond",
+            "code_color": "f6ca"
+        },
+        {
+            "name_icon": "dailymotion",
+            "code_color": "e052"
+        },
+        {
+            "name_icon": "dashcube",
+            "code_color": "f210"
+        },
+        {
+            "name_icon": "deezer",
+            "code_color": "e077"
+        },
+        {
+            "name_icon": "delicious",
+            "code_color": "f1a5"
+        },
+        {
+            "name_icon": "deploydog",
+            "code_color": "f38e"
+        },
+        {
+            "name_icon": "deskpro",
+            "code_color": "f38f"
+        },
+        {
+            "name_icon": "dev",
+            "code_color": "f6cc"
+        },
+        {
+            "name_icon": "deviantart",
+            "code_color": "f1bd"
+        },
+        {
+            "name_icon": "dhl",
+            "code_color": "f790"
+        },
+        {
+            "name_icon": "diaspora",
+            "code_color": "f791"
+        },
+        {
+            "name_icon": "digg",
+            "code_color": "f1a6"
+        },
+        {
+            "name_icon": "digital-ocean",
+            "code_color": "f391"
+        },
+        {
+            "name_icon": "discord",
+            "code_color": "f392"
+        },
+        {
+            "name_icon": "discourse",
+            "code_color": "f393"
+        },
+        {
+            "name_icon": "dochub",
+            "code_color": "f394"
+        },
+        {
+            "name_icon": "docker",
+            "code_color": "f395"
+        },
+        {
+            "name_icon": "draft2digital",
+            "code_color": "f396"
+        },
+        {
+            "name_icon": "dribbble",
+            "code_color": "f17d"
+        },
+        {
+            "name_icon": "dribbble-square",
+            "code_color": "f397"
+        },
+        {
+            "name_icon": "dropbox",
+            "code_color": "f16b"
+        },
+        {
+            "name_icon": "drupal",
+            "code_color": "f1a9"
+        },
+        {
+            "name_icon": "dyalog",
+            "code_color": "f399"
+        },
+        {
+            "name_icon": "earlybirds",
+            "code_color": "f39a"
+        },
+        {
+            "name_icon": "ebay",
+            "code_color": "f4f4"
+        },
+        {
+            "name_icon": "edge",
+            "code_color": "f282"
+        },
+        {
+            "name_icon": "edge-legacy",
+            "code_color": "e078"
+        },
+        {
+            "name_icon": "elementor",
+            "code_color": "f430"
+        },
+        {
+            "name_icon": "ello",
+            "code_color": "f5f1"
+        },
+        {
+            "name_icon": "ember",
+            "code_color": "f423"
+        },
+        {
+            "name_icon": "empire",
+            "code_color": "f1d1"
+        },
+        {
+            "name_icon": "envira",
+            "code_color": "f299"
+        },
+        {
+            "name_icon": "erlang",
+            "code_color": "f39d"
+        },
+        {
+            "name_icon": "ethereum",
+            "code_color": "f42e"
+        },
+        {
+            "name_icon": "etsy",
+            "code_color": "f2d7"
+        },
+        {
+            "name_icon": "evernote",
+            "code_color": "f839"
+        },
+        {
+            "name_icon": "expeditedssl",
+            "code_color": "f23e"
+        },
+        {
+            "name_icon": "facebook",
+            "code_color": "f09a"
+        },
+        {
+            "name_icon": "facebook-f",
+            "code_color": "f39e"
+        },
+        {
+            "name_icon": "facebook-messenger",
+            "code_color": "f39f"
+        },
+        {
+            "name_icon": "facebook-square",
+            "code_color": "f082"
+        },
+        {
+            "name_icon": "fantasy-flight-games",
+            "code_color": "f6dc"
+        },
+        {
+            "name_icon": "fedex",
+            "code_color": "f797"
+        },
+        {
+            "name_icon": "fedora",
+            "code_color": "f798"
+        },
+        {
+            "name_icon": "figma",
+            "code_color": "f799"
+        },
+        {
+            "name_icon": "firefox",
+            "code_color": "f269"
+        },
+        {
+            "name_icon": "firefox-browser",
+            "code_color": "e007"
+        },
+        {
+            "name_icon": "first-order",
+            "code_color": "f2b0"
+        },
+        {
+            "name_icon": "first-order-alt",
+            "code_color": "f50a"
+        },
+        {
+            "name_icon": "firstdraft",
+            "code_color": "f3a1"
+        },
+        {
+            "name_icon": "flickr",
+            "code_color": "f16e"
+        },
+        {
+            "name_icon": "flipboard",
+            "code_color": "f44d"
+        },
+        {
+            "name_icon": "fly",
+            "code_color": "f417"
+        },
+        {
+            "name_icon": "font-awesome",
+            "code_color": "f2b4"
+        },
+        {
+            "name_icon": "font-awesome-alt",
+            "code_color": "f35c"
+        },
+        {
+            "name_icon": "font-awesome-flag",
+            "code_color": "f425"
+        },
+        {
+            "name_icon": "font-awesome-logo-full",
+            "code_color": "f4e6"
+        },
+        {
+            "name_icon": "fonticons",
+            "code_color": "f280"
+        },
+        {
+            "name_icon": "fonticons-fi",
+            "code_color": "f3a2"
+        },
+        {
+            "name_icon": "fort-awesome",
+            "code_color": "f286"
+        },
+        {
+            "name_icon": "fort-awesome-alt",
+            "code_color": "f3a3"
+        },
+        {
+            "name_icon": "forumbee",
+            "code_color": "f211"
+        },
+        {
+            "name_icon": "foursquare",
+            "code_color": "f180"
+        },
+        {
+            "name_icon": "free-code-camp",
+            "code_color": "f2c5"
+        },
+        {
+            "name_icon": "freebsd",
+            "code_color": "f3a4"
+        },
+        {
+            "name_icon": "fulcrum",
+            "code_color": "f50b"
+        },
+        {
+            "name_icon": "galactic-republic",
+            "code_color": "f50c"
+        },
+        {
+            "name_icon": "galactic-senate",
+            "code_color": "f50d"
+        },
+        {
+            "name_icon": "get-pocket",
+            "code_color": "f265"
+        },
+        {
+            "name_icon": "gg",
+            "code_color": "f260"
+        },
+        {
+            "name_icon": "gg-circle",
+            "code_color": "f261"
+        },
+        {
+            "name_icon": "git",
+            "code_color": "f1d3"
+        },
+        {
+            "name_icon": "git-alt",
+            "code_color": "f841"
+        },
+        {
+            "name_icon": "git-square",
+            "code_color": "f1d2"
+        },
+        {
+            "name_icon": "github",
+            "code_color": "f09b"
+        },
+        {
+            "name_icon": "github-alt",
+            "code_color": "f113"
+        },
+        {
+            "name_icon": "github-square",
+            "code_color": "f092"
+        },
+        {
+            "name_icon": "gitkraken",
+            "code_color": "f3a6"
+        },
+        {
+            "name_icon": "gitlab",
+            "code_color": "f296"
+        },
+        {
+            "name_icon": "gitter",
+            "code_color": "f426"
+        },
+        {
+            "name_icon": "glide",
+            "code_color": "f2a5"
+        },
+        {
+            "name_icon": "glide-g",
+            "code_color": "f2a6"
+        },
+        {
+            "name_icon": "gofore",
+            "code_color": "f3a7"
+        },
+        {
+            "name_icon": "goodreads",
+            "code_color": "f3a8"
+        },
+        {
+            "name_icon": "goodreads-g",
+            "code_color": "f3a9"
+        },
+        {
+            "name_icon": "google",
+            "code_color": "f1a0"
+        },
+        {
+            "name_icon": "google-drive",
+            "code_color": "f3aa"
+        },
+        {
+            "name_icon": "google-pay",
+            "code_color": "e079"
+        },
+        {
+            "name_icon": "google-play",
+            "code_color": "f3ab"
+        },
+        {
+            "name_icon": "google-plus",
+            "code_color": "f2b3"
+        },
+        {
+            "name_icon": "google-plus-g",
+            "code_color": "f0d5"
+        },
+        {
+            "name_icon": "google-plus-square",
+            "code_color": "f0d4"
+        },
+        {
+            "name_icon": "google-wallet",
+            "code_color": "f1ee"
+        },
+        {
+            "name_icon": "gratipay",
+            "code_color": "f184"
+        },
+        {
+            "name_icon": "grav",
+            "code_color": "f2d6"
+        },
+        {
+            "name_icon": "gripfire",
+            "code_color": "f3ac"
+        },
+        {
+            "name_icon": "grunt",
+            "code_color": "f3ad"
+        },
+        {
+            "name_icon": "gulp",
+            "code_color": "f3ae"
+        },
+        {
+            "name_icon": "hacker-news",
+            "code_color": "f1d4"
+        },
+        {
+            "name_icon": "hacker-news-square",
+            "code_color": "f3af"
+        },
+        {
+            "name_icon": "hackerrank",
+            "code_color": "f5f7"
+        },
+        {
+            "name_icon": "hips",
+            "code_color": "f452"
+        },
+        {
+            "name_icon": "hire-a-helper",
+            "code_color": "f3b0"
+        },
+        {
+            "name_icon": "hooli",
+            "code_color": "f427"
+        },
+        {
+            "name_icon": "hornbill",
+            "code_color": "f592"
+        },
+        {
+            "name_icon": "hotjar",
+            "code_color": "f3b1"
+        },
+        {
+            "name_icon": "houzz",
+            "code_color": "f27c"
+        },
+        {
+            "name_icon": "html5",
+            "code_color": "f13b"
+        },
+        {
+            "name_icon": "hubspot",
+            "code_color": "f3b2"
+        },
+        {
+            "name_icon": "ideal",
+            "code_color": "e013"
+        },
+        {
+            "name_icon": "imdb",
+            "code_color": "f2d8"
+        },
+        {
+            "name_icon": "instagram",
+            "code_color": "f16d"
+        },
+        {
+            "name_icon": "instagram-square",
+            "code_color": "e055"
+        },
+        {
+            "name_icon": "intercom",
+            "code_color": "f7af"
+        },
+        {
+            "name_icon": "internet-explorer",
+            "code_color": "f26b"
+        },
+        {
+            "name_icon": "invision",
+            "code_color": "f7b0"
+        },
+        {
+            "name_icon": "ioxhost",
+            "code_color": "f208"
+        },
+        {
+            "name_icon": "itch-io",
+            "code_color": "f83a"
+        },
+        {
+            "name_icon": "itunes",
+            "code_color": "f3b4"
+        },
+        {
+            "name_icon": "itunes-note",
+            "code_color": "f3b5"
+        },
+        {
+            "name_icon": "java",
+            "code_color": "f4e4"
+        },
+        {
+            "name_icon": "jedi-order",
+            "code_color": "f50e"
+        },
+        {
+            "name_icon": "jenkins",
+            "code_color": "f3b6"
+        },
+        {
+            "name_icon": "jira",
+            "code_color": "f7b1"
+        },
+        {
+            "name_icon": "joget",
+            "code_color": "f3b7"
+        },
+        {
+            "name_icon": "joomla",
+            "code_color": "f1aa"
+        },
+        {
+            "name_icon": "js",
+            "code_color": "f3b8"
+        },
+        {
+            "name_icon": "js-square",
+            "code_color": "f3b9"
+        },
+        {
+            "name_icon": "jsfiddle",
+            "code_color": "f1cc"
+        },
+        {
+            "name_icon": "kaggle",
+            "code_color": "f5fa"
+        },
+        {
+            "name_icon": "keybase",
+            "code_color": "f4f5"
+        },
+        {
+            "name_icon": "keycdn",
+            "code_color": "f3ba"
+        },
+        {
+            "name_icon": "kickstarter",
+            "code_color": "f3bb"
+        },
+        {
+            "name_icon": "kickstarter-k",
+            "code_color": "f3bc"
+        },
+        {
+            "name_icon": "korvue",
+            "code_color": "f42f"
+        },
+        {
+            "name_icon": "laravel",
+            "code_color": "f3bd"
+        },
+        {
+            "name_icon": "lastfm",
+            "code_color": "f202"
+        },
+        {
+            "name_icon": "lastfm-square",
+            "code_color": "f203"
+        },
+        {
+            "name_icon": "leanpub",
+            "code_color": "f212"
+        },
+        {
+            "name_icon": "less",
+            "code_color": "f41d"
+        },
+        {
+            "name_icon": "line",
+            "code_color": "f3c0"
+        },
+        {
+            "name_icon": "linkedin",
+            "code_color": "f08c"
+        },
+        {
+            "name_icon": "linkedin-in",
+            "code_color": "f0e1"
+        },
+        {
+            "name_icon": "linode",
+            "code_color": "f2b8"
+        },
+        {
+            "name_icon": "linux",
+            "code_color": "f17c"
+        },
+        {
+            "name_icon": "lyft",
+            "code_color": "f3c3"
+        },
+        {
+            "name_icon": "magento",
+            "code_color": "f3c4"
+        },
+        {
+            "name_icon": "mailchimp",
+            "code_color": "f59e"
+        },
+        {
+            "name_icon": "mandalorian",
+            "code_color": "f50f"
+        },
+        {
+            "name_icon": "markdown",
+            "code_color": "f60f"
+        },
+        {
+            "name_icon": "mastodon",
+            "code_color": "f4f6"
+        },
+        {
+            "name_icon": "maxcdn",
+            "code_color": "f136"
+        },
+        {
+            "name_icon": "mdb",
+            "code_color": "f8ca"
+        },
+        {
+            "name_icon": "medapps",
+            "code_color": "f3c6"
+        },
+        {
+            "name_icon": "medium",
+            "code_color": "f23a"
+        },
+        {
+            "name_icon": "medium-m",
+            "code_color": "f3c7"
+        },
+        {
+            "name_icon": "medrt",
+            "code_color": "f3c8"
+        },
+        {
+            "name_icon": "meetup",
+            "code_color": "f2e0"
+        },
+        {
+            "name_icon": "megaport",
+            "code_color": "f5a3"
+        },
+        {
+            "name_icon": "mendeley",
+            "code_color": "f7b3"
+        },
+        {
+            "name_icon": "microblog",
+            "code_color": "e01a"
+        },
+        {
+            "name_icon": "microsoft",
+            "code_color": "f3ca"
+        },
+        {
+            "name_icon": "mix",
+            "code_color": "f3cb"
+        },
+        {
+            "name_icon": "mixcloud",
+            "code_color": "f289"
+        },
+        {
+            "name_icon": "mixer",
+            "code_color": "e056"
+        },
+        {
+            "name_icon": "mizuni",
+            "code_color": "f3cc"
+        },
+        {
+            "name_icon": "modx",
+            "code_color": "f285"
+        },
+        {
+            "name_icon": "monero",
+            "code_color": "f3d0"
+        },
+        {
+            "name_icon": "napster",
+            "code_color": "f3d2"
+        },
+        {
+            "name_icon": "neos",
+            "code_color": "f612"
+        },
+        {
+            "name_icon": "nimblr",
+            "code_color": "f5a8"
+        },
+        {
+            "name_icon": "node",
+            "code_color": "f419"
+        },
+        {
+            "name_icon": "node-js",
+            "code_color": "f3d3"
+        },
+        {
+            "name_icon": "npm",
+            "code_color": "f3d4"
+        },
+        {
+            "name_icon": "ns8",
+            "code_color": "f3d5"
+        },
+        {
+            "name_icon": "nutritionix",
+            "code_color": "f3d6"
+        },
+        {
+            "name_icon": "odnoklassniki",
+            "code_color": "f263"
+        },
+        {
+            "name_icon": "odnoklassniki-square",
+            "code_color": "f264"
+        },
+        {
+            "name_icon": "old-republic",
+            "code_color": "f510"
+        },
+        {
+            "name_icon": "opencart",
+            "code_color": "f23d"
+        },
+        {
+            "name_icon": "openid",
+            "code_color": "f19b"
+        },
+        {
+            "name_icon": "opera",
+            "code_color": "f26a"
+        },
+        {
+            "name_icon": "optin-monster",
+            "code_color": "f23c"
+        },
+        {
+            "name_icon": "orcid",
+            "code_color": "f8d2"
+        },
+        {
+            "name_icon": "osi",
+            "code_color": "f41a"
+        },
+        {
+            "name_icon": "page4",
+            "code_color": "f3d7"
+        },
+        {
+            "name_icon": "pagelines",
+            "code_color": "f18c"
+        },
+        {
+            "name_icon": "palfed",
+            "code_color": "f3d8"
+        },
+        {
+            "name_icon": "patreon",
+            "code_color": "f3d9"
+        },
+        {
+            "name_icon": "paypal",
+            "code_color": "f1ed"
+        },
+        {
+            "name_icon": "penny-arcade",
+            "code_color": "f704"
+        },
+        {
+            "name_icon": "periscope",
+            "code_color": "f3da"
+        },
+        {
+            "name_icon": "phabricator",
+            "code_color": "f3db"
+        },
+        {
+            "name_icon": "phoenix-framework",
+            "code_color": "f3dc"
+        },
+        {
+            "name_icon": "phoenix-squadron",
+            "code_color": "f511"
+        },
+        {
+            "name_icon": "php",
+            "code_color": "f457"
+        },
+        {
+            "name_icon": "pied-piper",
+            "code_color": "f2ae"
+        },
+        {
+            "name_icon": "pied-piper-alt",
+            "code_color": "f1a8"
+        },
+        {
+            "name_icon": "pied-piper-hat",
+            "code_color": "f4e5"
+        },
+        {
+            "name_icon": "pied-piper-pp",
+            "code_color": "f1a7"
+        },
+        {
+            "name_icon": "pied-piper-square",
+            "code_color": "e01e"
+        },
+        {
+            "name_icon": "pinterest",
+            "code_color": "f0d2"
+        },
+        {
+            "name_icon": "pinterest-p",
+            "code_color": "f231"
+        },
+        {
+            "name_icon": "pinterest-square",
+            "code_color": "f0d3"
+        },
+        {
+            "name_icon": "playstation",
+            "code_color": "f3df"
+        },
+        {
+            "name_icon": "product-hunt",
+            "code_color": "f288"
+        },
+        {
+            "name_icon": "pushed",
+            "code_color": "f3e1"
+        },
+        {
+            "name_icon": "python",
+            "code_color": "f3e2"
+        },
+        {
+            "name_icon": "qq",
+            "code_color": "f1d6"
+        },
+        {
+            "name_icon": "quinscape",
+            "code_color": "f459"
+        },
+        {
+            "name_icon": "quora",
+            "code_color": "f2c4"
+        },
+        {
+            "name_icon": "r-project",
+            "code_color": "f4f7"
+        },
+        {
+            "name_icon": "raspberry-pi",
+            "code_color": "f7bb"
+        },
+        {
+            "name_icon": "ravelry",
+            "code_color": "f2d9"
+        },
+        {
+            "name_icon": "react",
+            "code_color": "f41b"
+        },
+        {
+            "name_icon": "reacteurope",
+            "code_color": "f75d"
+        },
+        {
+            "name_icon": "readme",
+            "code_color": "f4d5"
+        },
+        {
+            "name_icon": "rebel",
+            "code_color": "f1d0"
+        },
+        {
+            "name_icon": "red-river",
+            "code_color": "f3e3"
+        },
+        {
+            "name_icon": "reddit",
+            "code_color": "f1a1"
+        },
+        {
+            "name_icon": "reddit-alien",
+            "code_color": "f281"
+        },
+        {
+            "name_icon": "reddit-square",
+            "code_color": "f1a2"
+        },
+        {
+            "name_icon": "redhat",
+            "code_color": "f7bc"
+        },
+        {
+            "name_icon": "renren",
+            "code_color": "f18b"
+        },
+        {
+            "name_icon": "replyd",
+            "code_color": "f3e6"
+        },
+        {
+            "name_icon": "researchgate",
+            "code_color": "f4f8"
+        },
+        {
+            "name_icon": "resolving",
+            "code_color": "f3e7"
+        },
+        {
+            "name_icon": "rev",
+            "code_color": "f5b2"
+        },
+        {
+            "name_icon": "rocketchat",
+            "code_color": "f3e8"
+        },
+        {
+            "name_icon": "rockrms",
+            "code_color": "f3e9"
+        },
+        {
+            "name_icon": "rust",
+            "code_color": "e07a"
+        },
+        {
+            "name_icon": "safari",
+            "code_color": "f267"
+        },
+        {
+            "name_icon": "salesforce",
+            "code_color": "f83b"
+        },
+        {
+            "name_icon": "sass",
+            "code_color": "f41e"
+        },
+        {
+            "name_icon": "schlix",
+            "code_color": "f3ea"
+        },
+        {
+            "name_icon": "scribd",
+            "code_color": "f28a"
+        },
+        {
+            "name_icon": "searchengin",
+            "code_color": "f3eb"
+        },
+        {
+            "name_icon": "sellcast",
+            "code_color": "f2da"
+        },
+        {
+            "name_icon": "sellsy",
+            "code_color": "f213"
+        },
+        {
+            "name_icon": "servicestack",
+            "code_color": "f3ec"
+        },
+        {
+            "name_icon": "shirtsinbulk",
+            "code_color": "f214"
+        },
+        {
+            "name_icon": "shopify",
+            "code_color": "e057"
+        },
+        {
+            "name_icon": "shopware",
+            "code_color": "f5b5"
+        },
+        {
+            "name_icon": "simplybuilt",
+            "code_color": "f215"
+        },
+        {
+            "name_icon": "sistrix",
+            "code_color": "f3ee"
+        },
+        {
+            "name_icon": "sith",
+            "code_color": "f512"
+        },
+        {
+            "name_icon": "sketch",
+            "code_color": "f7c6"
+        },
+        {
+            "name_icon": "skyatlas",
+            "code_color": "f216"
+        },
+        {
+            "name_icon": "skype",
+            "code_color": "f17e"
+        },
+        {
+            "name_icon": "slack",
+            "code_color": "f198"
+        },
+        {
+            "name_icon": "slack-hash",
+            "code_color": "f3ef"
+        },
+        {
+            "name_icon": "slideshare",
+            "code_color": "f1e7"
+        },
+        {
+            "name_icon": "snapchat",
+            "code_color": "f2ab"
+        },
+        {
+            "name_icon": "snapchat-ghost",
+            "code_color": "f2ac"
+        },
+        {
+            "name_icon": "snapchat-square",
+            "code_color": "f2ad"
+        },
+        {
+            "name_icon": "soundcloud",
+            "code_color": "f1be"
+        },
+        {
+            "name_icon": "sourcetree",
+            "code_color": "f7d3"
+        },
+        {
+            "name_icon": "speakap",
+            "code_color": "f3f3"
+        },
+        {
+            "name_icon": "speaker-deck",
+            "code_color": "f83c"
+        },
+        {
+            "name_icon": "spotify",
+            "code_color": "f1bc"
+        },
+        {
+            "name_icon": "squarespace",
+            "code_color": "f5be"
+        },
+        {
+            "name_icon": "stack-exchange",
+            "code_color": "f18d"
+        },
+        {
+            "name_icon": "stack-overflow",
+            "code_color": "f16c"
+        },
+        {
+            "name_icon": "stackpath",
+            "code_color": "f842"
+        },
+        {
+            "name_icon": "staylinked",
+            "code_color": "f3f5"
+        },
+        {
+            "name_icon": "steam",
+            "code_color": "f1b6"
+        },
+        {
+            "name_icon": "steam-square",
+            "code_color": "f1b7"
+        },
+        {
+            "name_icon": "steam-symbol",
+            "code_color": "f3f6"
+        },
+        {
+            "name_icon": "sticker-mule",
+            "code_color": "f3f7"
+        },
+        {
+            "name_icon": "strava",
+            "code_color": "f428"
+        },
+        {
+            "name_icon": "stripe",
+            "code_color": "f429"
+        },
+        {
+            "name_icon": "stripe-s",
+            "code_color": "f42a"
+        },
+        {
+            "name_icon": "studiovinari",
+            "code_color": "f3f8"
+        },
+        {
+            "name_icon": "stumbleupon",
+            "code_color": "f1a4"
+        },
+        {
+            "name_icon": "stumbleupon-circle",
+            "code_color": "f1a3"
+        },
+        {
+            "name_icon": "superpowers",
+            "code_color": "f2dd"
+        },
+        {
+            "name_icon": "supple",
+            "code_color": "f3f9"
+        },
+        {
+            "name_icon": "suse",
+            "code_color": "f7d6"
+        },
+        {
+            "name_icon": "swift",
+            "code_color": "f8e1"
+        },
+        {
+            "name_icon": "symfony",
+            "code_color": "f83d"
+        },
+        {
+            "name_icon": "teamspeak",
+            "code_color": "f4f9"
+        },
+        {
+            "name_icon": "telegram",
+            "code_color": "f2c6"
+        },
+        {
+            "name_icon": "telegram-plane",
+            "code_color": "f3fe"
+        },
+        {
+            "name_icon": "tencent-weibo",
+            "code_color": "f1d5"
+        },
+        {
+            "name_icon": "the-red-yeti",
+            "code_color": "f69d"
+        },
+        {
+            "name_icon": "themeco",
+            "code_color": "f5c6"
+        },
+        {
+            "name_icon": "themeisle",
+            "code_color": "f2b2"
+        },
+        {
+            "name_icon": "think-peaks",
+            "code_color": "f731"
+        },
+        {
+            "name_icon": "tiktok",
+            "code_color": "e07b"
+        },
+        {
+            "name_icon": "trade-federation",
+            "code_color": "f513"
+        },
+        {
+            "name_icon": "trello",
+            "code_color": "f181"
+        },
+        {
+            "name_icon": "tripadvisor",
+            "code_color": "f262"
+        },
+        {
+            "name_icon": "tumblr",
+            "code_color": "f173"
+        },
+        {
+            "name_icon": "tumblr-square",
+            "code_color": "f174"
+        },
+        {
+            "name_icon": "twitch",
+            "code_color": "f1e8"
+        },
+        {
+            "name_icon": "twitter",
+            "code_color": "f099"
+        },
+        {
+            "name_icon": "twitter-square",
+            "code_color": "f081"
+        },
+        {
+            "name_icon": "typo3",
+            "code_color": "f42b"
+        },
+        {
+            "name_icon": "uber",
+            "code_color": "f402"
+        },
+        {
+            "name_icon": "ubuntu",
+            "code_color": "f7df"
+        },
+        {
+            "name_icon": "uikit",
+            "code_color": "f403"
+        },
+        {
+            "name_icon": "umbraco",
+            "code_color": "f8e8"
+        },
+        {
+            "name_icon": "uniregistry",
+            "code_color": "f404"
+        },
+        {
+            "name_icon": "unity",
+            "code_color": "e049"
+        },
+        {
+            "name_icon": "unsplash",
+            "code_color": "e07c"
+        },
+        {
+            "name_icon": "untappd",
+            "code_color": "f405"
+        },
+        {
+            "name_icon": "ups",
+            "code_color": "f7e0"
+        },
+        {
+            "name_icon": "usb",
+            "code_color": "f287"
+        },
+        {
+            "name_icon": "usps",
+            "code_color": "f7e1"
+        },
+        {
+            "name_icon": "ussunnah",
+            "code_color": "f407"
+        },
+        {
+            "name_icon": "vaadin",
+            "code_color": "f408"
+        },
+        {
+            "name_icon": "viacoin",
+            "code_color": "f237"
+        },
+        {
+            "name_icon": "viadeo",
+            "code_color": "f2a9"
+        },
+        {
+            "name_icon": "viadeo-square",
+            "code_color": "f2aa"
+        },
+        {
+            "name_icon": "viber",
+            "code_color": "f409"
+        },
+        {
+            "name_icon": "vimeo",
+            "code_color": "f40a"
+        },
+        {
+            "name_icon": "vimeo-square",
+            "code_color": "f194"
+        },
+        {
+            "name_icon": "vimeo-v",
+            "code_color": "f27d"
+        },
+        {
+            "name_icon": "vine",
+            "code_color": "f1ca"
+        },
+        {
+            "name_icon": "vk",
+            "code_color": "f189"
+        },
+        {
+            "name_icon": "vnv",
+            "code_color": "f40b"
+        },
+        {
+            "name_icon": "vuejs",
+            "code_color": "f41f"
+        },
+        {
+            "name_icon": "waze",
+            "code_color": "f83f"
+        },
+        {
+            "name_icon": "weebly",
+            "code_color": "f5cc"
+        },
+        {
+            "name_icon": "weibo",
+            "code_color": "f18a"
+        },
+        {
+            "name_icon": "weixin",
+            "code_color": "f1d7"
+        },
+        {
+            "name_icon": "whatsapp",
+            "code_color": "f232"
+        },
+        {
+            "name_icon": "whatsapp-square",
+            "code_color": "f40c"
+        },
+        {
+            "name_icon": "whmcs",
+            "code_color": "f40d"
+        },
+        {
+            "name_icon": "wikipedia-w",
+            "code_color": "f266"
+        },
+        {
+            "name_icon": "windows",
+            "code_color": "f17a"
+        },
+        {
+            "name_icon": "wix",
+            "code_color": "f5cf"
+        },
+        {
+            "name_icon": "wizards-of-the-coast",
+            "code_color": "f730"
+        },
+        {
+            "name_icon": "wolf-pack-battalion",
+            "code_color": "f514"
+        },
+        {
+            "name_icon": "wordpress",
+            "code_color": "f19a"
+        },
+        {
+            "name_icon": "wordpress-simple",
+            "code_color": "f411"
+        },
+        {
+            "name_icon": "wpbeginner",
+            "code_color": "f297"
+        },
+        {
+            "name_icon": "wpexplorer",
+            "code_color": "f2de"
+        },
+        {
+            "name_icon": "wpforms",
+            "code_color": "f298"
+        },
+        {
+            "name_icon": "wpressr",
+            "code_color": "f3e4"
+        },
+        {
+            "name_icon": "xbox",
+            "code_color": "f412"
+        },
+        {
+            "name_icon": "xing",
+            "code_color": "f168"
+        },
+        {
+            "name_icon": "xing-square",
+            "code_color": "f169"
+        },
+        {
+            "name_icon": "y-combinator",
+            "code_color": "f23b"
+        },
+        {
+            "name_icon": "yahoo",
+            "code_color": "f19e"
+        },
+        {
+            "name_icon": "yammer",
+            "code_color": "f840"
+        },
+        {
+            "name_icon": "yandex",
+            "code_color": "f413"
+        },
+        {
+            "name_icon": "yandex-international",
+            "code_color": "f414"
+        },
+        {
+            "name_icon": "yarn",
+            "code_color": "f7e3"
+        },
+        {
+            "name_icon": "yelp",
+            "code_color": "f1e9"
+        },
+        {
+            "name_icon": "yoast",
+            "code_color": "f2b1"
+        },
+        {
+            "name_icon": "youtube",
+            "code_color": "f167"
+        },
+        {
+            "name_icon": "youtube-square",
+            "code_color": "f431"
+        },
+        {
+            "name_icon": "zhihu",
+            "code_color": "f63f"
+        }
+    ]
+}
