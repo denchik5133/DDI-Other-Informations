@@ -1,0 +1,14 @@
+{
+    "news": [
+        {
+            "title": "UPDATE: The DanLib Base Library",
+            "description": "The DanLib Base Library is currently under active development. This is just a test message!!!",
+            "priority": "High",
+            "color": "Color(255, 140, 0)",
+            "link": "https://discord.gg/CND6B5sH3j",
+            "news": true,
+            "spoiler": false,
+            "time": "1714996140"
+        }
+    ]
+}
