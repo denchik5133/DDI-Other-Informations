@@ -1,8 +1,13 @@
 {
-    "DanLib Basic Library": "3.2.0",
-    "Codes": "0.0.7",
+    "DanLib Basic Library": {
+        "version": "3.2.0",
+        "url": "https://github.com/denchik5133/DanLib"
+    },
+    "Chat": {
+        "version": "1.0.0",
+        "url": ""
+    },
     "LFS Travel System": "1.6.2",
-    "Chat": "1.0.0",
     "Whitelist Jobs": "1.0.0",
     "Reports": "1.0.0"
 }
